@@ -7,14 +7,12 @@
     "state": "Pampanga",
     "latitude": 15.128918358846349,
     "longitude": 120.64336334097311,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 120,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 120
       }
     ]
   },
@@ -26,14 +24,12 @@
     "state": "Pampanga",
     "latitude": 15.128966102128715,
     "longitude": 120.64334714914025,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 120,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 120
       }
     ]
   },
@@ -45,19 +41,16 @@
     "state": "Metro Manila",
     "latitude": 14.527038782876403,
     "longitude": 120.98948647457178,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Quarker (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -69,14 +62,12 @@
     "state": "La Union",
     "latitude": 16.224984226460094,
     "longitude": 120.49960000879526,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SEAcharge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -88,14 +79,12 @@
     "state": "Metro Manila",
     "latitude": 14.552787853958947,
     "longitude": 121.04752357063387,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Tesla (Tesla-only charging)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 11,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 11
       }
     ]
   },
@@ -107,14 +96,12 @@
     "state": "Metro Manila",
     "latitude": 14.565562844970572,
     "longitude": 121.0278365608001,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Tesla (Tesla-only charging)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 11,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 11
       }
     ]
   },
@@ -126,14 +113,12 @@
     "state": "Pampanga",
     "latitude": 15.170343434012551,
     "longitude": 120.58012686654774,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Tesla (Tesla-only charging)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 11,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 11
       }
     ]
   },
@@ -145,14 +130,12 @@
     "state": "Laguna",
     "latitude": 14.331428307823401,
     "longitude": 121.05054029535506,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Tesla (Tesla-only charging)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 10,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 10
       }
     ]
   },
@@ -164,19 +147,16 @@
     "state": "Metro Manila",
     "latitude": 14.54208753913359,
     "longitude": 120.98476806037115,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "WeCharge Hyperfast (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -188,14 +168,12 @@
     "state": "Pampanga",
     "latitude": 15.17029536072377,
     "longitude": 120.57972358434426,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "WeCharge Hyperfast (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -207,14 +185,12 @@
     "state": "Metro Manila",
     "latitude": 14.604526122486007,
     "longitude": 121.0637995183049,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -226,14 +202,12 @@
     "state": "Metro Manila",
     "latitude": 14.55293858559628,
     "longitude": 121.05289466079284,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -245,14 +219,12 @@
     "state": "Metro Manila",
     "latitude": 14.552565051510328,
     "longitude": 121.05536112217965,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -264,14 +236,12 @@
     "state": "Metro Manila",
     "latitude": 14.55039734976495,
     "longitude": 121.02770361425473,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -283,14 +253,12 @@
     "state": "Metro Manila",
     "latitude": 14.58988264963861,
     "longitude": 121.08825858528212,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -302,14 +270,12 @@
     "state": "Metro Manila",
     "latitude": 14.57399105033403,
     "longitude": 121.06548467104221,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -321,14 +287,12 @@
     "state": "Metro Manila",
     "latitude": 14.550971995285408,
     "longitude": 121.02493212517857,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -340,14 +304,12 @@
     "state": "Cavite",
     "latitude": 14.386133059603523,
     "longitude": 120.96196818348426,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 120,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 120
       }
     ]
   },
@@ -359,14 +321,12 @@
     "state": "Cavite",
     "latitude": 14.431137835341431,
     "longitude": 120.89725390609487,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -378,24 +338,20 @@
     "state": "Cebu",
     "latitude": 10.370955902134654,
     "longitude": 123.87085829048488,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -407,19 +363,16 @@
     "state": "Cebu",
     "latitude": 10.326386924417378,
     "longitude": 123.9328542891758,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -431,14 +384,12 @@
     "state": "Cebu",
     "latitude": 10.310642013041672,
     "longitude": 123.91736816058756,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -450,14 +401,12 @@
     "state": "Cebu",
     "latitude": 10.30340578494534,
     "longitude": 123.89564803338453,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -469,14 +418,12 @@
     "state": "Cebu",
     "latitude": 10.312900681697144,
     "longitude": 123.8916019998544,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -488,19 +435,16 @@
     "state": "Bulacan",
     "latitude": 14.844712197307913,
     "longitude": 120.83845148672617,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -512,14 +456,12 @@
     "state": "Davao del Sur",
     "latitude": 7.050014671994646,
     "longitude": 125.58492848927244,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -531,14 +473,12 @@
     "state": "Davao del Sur",
     "latitude": 7.042619216836471,
     "longitude": 125.52878914437542,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -550,14 +490,12 @@
     "state": "Bukidnon",
     "latitude": 8.369002429089107,
     "longitude": 124.86735270364,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -569,14 +507,12 @@
     "state": "Iloilo",
     "latitude": 10.709281148967818,
     "longitude": 122.55114357564753,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -588,19 +524,16 @@
     "state": "Camarines Sur",
     "latitude": 13.617054211067384,
     "longitude": 123.2376096251794,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": null
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -612,19 +545,16 @@
     "state": "Camarines Sur",
     "latitude": 13.48487610971138,
     "longitude": 123.33576882617581,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -636,14 +566,12 @@
     "state": "Pampanga",
     "latitude": 15.047135171894581,
     "longitude": 120.68769152158154,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -655,14 +583,12 @@
     "state": "Pampanga",
     "latitude": 15.1518360154422,
     "longitude": 120.5594593071952,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -674,14 +600,12 @@
     "state": "Pampanga",
     "latitude": 15.193597422902343,
     "longitude": 120.52196780919508,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -693,14 +617,12 @@
     "state": "Nueva Ecija",
     "latitude": 15.46943651502221,
     "longitude": 120.98108200157753,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -712,14 +634,12 @@
     "state": "Zambales",
     "latitude": 14.875284301054577,
     "longitude": 120.23515539929622,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -731,14 +651,12 @@
     "state": "Bulacan",
     "latitude": 14.967255637435514,
     "longitude": 120.90360352298171,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -750,14 +668,12 @@
     "state": "Zambales",
     "latitude": 14.823892436743364,
     "longitude": 120.29820075976795,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -769,14 +685,12 @@
     "state": "Nueva Vizcaya",
     "latitude": 16.504024437747603,
     "longitude": 121.17345475988873,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -788,14 +702,12 @@
     "state": "Pangasinan",
     "latitude": 16.145640807456857,
     "longitude": 119.98947869353674,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -807,14 +719,12 @@
     "state": "La Union",
     "latitude": 16.524448537123106,
     "longitude": 120.32995805969233,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -826,14 +736,12 @@
     "state": "Pangasinan",
     "latitude": 16.074787197887318,
     "longitude": 120.40140077140086,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -845,14 +753,12 @@
     "state": "Benguet",
     "latitude": 16.397995091799118,
     "longitude": 120.56514227801063,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -864,24 +770,20 @@
     "state": "Pampanga",
     "latitude": 15.136061539969745,
     "longitude": 120.63957359013784,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 120,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 120
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 30,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 30
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -893,14 +795,12 @@
     "state": "Bulacan",
     "latitude": 14.965737253976627,
     "longitude": 120.89713816285587,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -912,14 +812,12 @@
     "state": "",
     "latitude": 14.222914895593576,
     "longitude": 121.03764511693771,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -931,14 +829,12 @@
     "state": "Bulacan",
     "latitude": 14.913048830256912,
     "longitude": 120.76642512323747,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -950,14 +846,12 @@
     "state": "Laguna",
     "latitude": 14.351576825197384,
     "longitude": 121.06315798273454,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -969,14 +863,12 @@
     "state": "Laguna",
     "latitude": 14.325190747095476,
     "longitude": 121.09492030580736,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -988,14 +880,12 @@
     "state": "",
     "latitude": 14.284191709662025,
     "longitude": 120.85884584365635,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1007,14 +897,12 @@
     "state": "Bataan",
     "latitude": 14.802641378140152,
     "longitude": 120.46609381051871,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1026,19 +914,16 @@
     "state": "Cavite",
     "latitude": 14.094721263434622,
     "longitude": 120.94071332119029,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "EvoXCharge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
       }
     ]
   },
@@ -1050,14 +935,12 @@
     "state": "Metro Manila",
     "latitude": 14.530613102692087,
     "longitude": 120.9811204337991,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Boost+ (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 22
       }
     ]
   },
@@ -1069,14 +952,12 @@
     "state": "Agusan del Norte",
     "latitude": 8.942516515296063,
     "longitude": 125.51990046858361,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1088,14 +969,12 @@
     "state": "Metro Manila",
     "latitude": 14.685153091749385,
     "longitude": 120.97644387191201,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -1108,18 +987,15 @@
     "latitude": 14.62851969454131,
     "longitude": 121.01385294015438,
     "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1131,14 +1007,12 @@
     "state": "General Santos City",
     "latitude": 6.1160610231070365,
     "longitude": 125.18237525763732,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1150,14 +1024,12 @@
     "state": "Davao del Sur",
     "latitude": 7.098363970453477,
     "longitude": 125.63010801660505,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1169,14 +1041,12 @@
     "state": "Davao del Sur",
     "latitude": 7.049895608027683,
     "longitude": 125.58642986634459,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1188,14 +1058,12 @@
     "state": "Misamis Oriental",
     "latitude": 8.456124705689291,
     "longitude": 124.622434906889,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1207,14 +1075,12 @@
     "state": "Misamis Oriental",
     "latitude": 8.484398944510048,
     "longitude": 124.65513496484641,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1226,14 +1092,12 @@
     "state": "Sorsogon",
     "latitude": 12.976295471539743,
     "longitude": 124.01899446500636,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1245,14 +1109,12 @@
     "state": "Camarines Norte",
     "latitude": 14.12169659863902,
     "longitude": 122.94607599311121,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "EvoXCharge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7.4,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7.4
       }
     ]
   },
@@ -1264,14 +1126,12 @@
     "state": "Negros Occidental",
     "latitude": 10.673325360596792,
     "longitude": 122.9437833354134,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1283,14 +1143,12 @@
     "state": "Metro Manila",
     "latitude": 14.75126681785116,
     "longitude": 121.02000789424778,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1302,14 +1160,12 @@
     "state": "Metro Manila",
     "latitude": 14.3777099765273,
     "longitude": 121.04568339767297,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1321,14 +1177,12 @@
     "state": "Metro Manila",
     "latitude": 14.658354640543223,
     "longitude": 121.01219662636584,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1340,14 +1194,12 @@
     "state": "Zamboanga del Sur",
     "latitude": 6.918078015045111,
     "longitude": 122.07610319370951,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1359,14 +1211,12 @@
     "state": "Zamboanga del Sur",
     "latitude": 6.907778871869766,
     "longitude": 122.0761320883123,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1378,14 +1228,12 @@
     "state": "Laguna",
     "latitude": 14.070412085982042,
     "longitude": 121.30224317848638,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1397,14 +1245,12 @@
     "state": "Cavite",
     "latitude": 14.409706034107117,
     "longitude": 120.85817298855613,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1417,13 +1263,11 @@
     "latitude": 13.855616322904893,
     "longitude": 120.98830759924999,
     "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1436,18 +1280,15 @@
     "latitude": 13.941647983100466,
     "longitude": 121.13905621651543,
     "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": null
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": null
       }
     ]
   },
@@ -1459,14 +1300,12 @@
     "state": "Cavite",
     "latitude": 14.408920174985141,
     "longitude": 120.9245912975266,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1478,14 +1317,12 @@
     "state": "Cavite",
     "latitude": 14.248832633724547,
     "longitude": 121.04841336454774,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1497,14 +1334,12 @@
     "state": "Laguna",
     "latitude": 14.23386662813374,
     "longitude": 121.0567586820523,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1516,14 +1351,12 @@
     "state": "Pampanga",
     "latitude": 15.121300331785719,
     "longitude": 120.60104265954737,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "SM Supermalls (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1535,24 +1368,20 @@
     "state": "Cavite",
     "latitude": 14.416291853655693,
     "longitude": 120.96749171428974,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1564,14 +1393,12 @@
     "state": "Isabela",
     "latitude": 16.696421894076764,
     "longitude": 121.56079238055213,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1583,14 +1410,12 @@
     "state": "Misamis Oriental",
     "latitude": 8.483868060184435,
     "longitude": 124.65878875504563,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1602,14 +1427,12 @@
     "state": "Isabela",
     "latitude": 16.690510608788358,
     "longitude": 121.55299547516631,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1621,14 +1444,12 @@
     "state": "Metro Manila",
     "latitude": 14.602233469371455,
     "longitude": 121.07974159049513,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1640,14 +1461,12 @@
     "state": "Lanao del Norte",
     "latitude": 8.218092119944856,
     "longitude": 124.24019245564205,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1659,14 +1478,12 @@
     "state": "Tarlac",
     "latitude": 15.436479598462057,
     "longitude": 120.60204516023373,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1678,14 +1495,12 @@
     "state": "Isabela",
     "latitude": 16.67003982690781,
     "longitude": 121.52820085426026,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1697,14 +1512,12 @@
     "state": "Misamis Oriental",
     "latitude": 8.478930191709836,
     "longitude": 124.64475583175886,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1716,14 +1529,12 @@
     "state": "Isabela",
     "latitude": 16.689048596042426,
     "longitude": 121.5519285663272,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1735,14 +1546,12 @@
     "state": "Metro Manila",
     "latitude": 14.648990208159574,
     "longitude": 121.11504778330755,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1754,14 +1563,12 @@
     "state": "Rizal",
     "latitude": 14.616899753857467,
     "longitude": 121.13557716554442,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "V-Green (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -1773,14 +1580,12 @@
     "state": "Bulacan",
     "latitude": 14.875340238781916,
     "longitude": 120.79741635252094,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "V-Green (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -1792,14 +1597,12 @@
     "state": "Cavite",
     "latitude": 14.322574053201407,
     "longitude": 120.912521988001,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "V-Green (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -1811,14 +1614,12 @@
     "state": "Metro Manila",
     "latitude": 14.638092459289084,
     "longitude": 121.10213641842688,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "V-Green (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -1830,19 +1631,16 @@
     "state": "Metro Manila",
     "latitude": 14.633940992702449,
     "longitude": 121.02561867550548,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Quarker (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 30,
-        "level": ""
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": 30
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 30,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 30
       }
     ]
   },
@@ -1854,19 +1652,16 @@
     "state": "Rizal",
     "latitude": 14.563530610938656,
     "longitude": 121.13866021579963,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "V-Green (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 30,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 30
       }
     ]
   },
@@ -1878,14 +1673,12 @@
     "state": "Metro Manila",
     "latitude": 14.511221278451387,
     "longitude": 120.99040957651505,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "V-Green (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -1897,24 +1690,20 @@
     "state": "Pampanga",
     "latitude": 14.976437485177428,
     "longitude": 120.75890692879898,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 120,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 120
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 120,
-        "level": ""
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": 120
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1926,19 +1715,16 @@
     "state": "Benguet",
     "latitude": 16.39031658781508,
     "longitude": 120.57297517529332,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 120,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 120
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1950,24 +1736,20 @@
     "state": "Metro Manila",
     "latitude": 14.421078709179724,
     "longitude": 121.033658181737,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 40,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 40
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 40,
-        "level": ""
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": 40
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -1979,14 +1761,12 @@
     "state": "Cebu",
     "latitude": 10.317933088129195,
     "longitude": 123.8961866289302,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -1998,14 +1778,12 @@
     "state": "Batangas",
     "latitude": 14.073036670446754,
     "longitude": 120.86958278579334,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -2017,14 +1795,12 @@
     "state": "Cavite",
     "latitude": 14.115918827855765,
     "longitude": 120.95960278735402,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -2036,14 +1812,12 @@
     "state": "Cavite",
     "latitude": 14.277439439437273,
     "longitude": 120.8915458379231,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2055,14 +1829,12 @@
     "state": "Batangas",
     "latitude": 14.122789581402003,
     "longitude": 120.59828251446561,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -2074,14 +1846,12 @@
     "state": "Cebu",
     "latitude": 10.319282594845404,
     "longitude": 123.90295654464933,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -2093,14 +1863,12 @@
     "state": "Cebu",
     "latitude": 10.313129126792816,
     "longitude": 123.89442559992744,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2112,19 +1880,16 @@
     "state": "Pangasinan",
     "latitude": 15.97165171879108,
     "longitude": 120.57110196576389,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 30,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 30
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2136,14 +1901,12 @@
     "state": "La Union",
     "latitude": 16.60050425805838,
     "longitude": 120.3187549888994,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2155,14 +1918,12 @@
     "state": "Antique",
     "latitude": 10.736123828086335,
     "longitude": 121.95172302899368,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2174,14 +1935,12 @@
     "state": "Cavite",
     "latitude": 14.317025358553082,
     "longitude": 120.94406217680512,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "DCharge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 40,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 40
       }
     ]
   },
@@ -2193,19 +1952,16 @@
     "state": "Batangas",
     "latitude": 14.001072718826137,
     "longitude": 121.19083031500577,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
       }
     ]
   },
@@ -2217,19 +1973,16 @@
     "state": "Laguna",
     "latitude": 14.23869203773745,
     "longitude": 121.05980808823904,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -2241,14 +1994,12 @@
     "state": "Cavite",
     "latitude": 14.352833293634305,
     "longitude": 120.96071191851138,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -2260,19 +2011,16 @@
     "state": "Laguna",
     "latitude": 14.241502375723542,
     "longitude": 121.05848694097813,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -2284,19 +2032,16 @@
     "state": "Cavite",
     "latitude": 14.381916613924119,
     "longitude": 120.95801522313172,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -2308,14 +2053,12 @@
     "state": "Cavite",
     "latitude": 14.38262527488952,
     "longitude": 120.95960248518008,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2327,19 +2070,16 @@
     "state": "Laguna",
     "latitude": 14.26384440392333,
     "longitude": 121.0591831756742,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -2351,14 +2091,12 @@
     "state": "Cavite",
     "latitude": 14.415475023499098,
     "longitude": 120.96746634943509,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2370,19 +2108,16 @@
     "state": "Cavite",
     "latitude": 14.124639156430504,
     "longitude": 120.96894160241277,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -2394,14 +2129,12 @@
     "state": "Cavite",
     "latitude": 14.432214255871884,
     "longitude": 120.90218730902438,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7.4,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7.4
       }
     ]
   },
@@ -2413,14 +2146,12 @@
     "state": "Cavite",
     "latitude": 14.433288166241795,
     "longitude": 120.90126479677247,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7.4,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7.4
       }
     ]
   },
@@ -2432,19 +2163,16 @@
     "state": "Laguna",
     "latitude": 14.153213423287553,
     "longitude": 121.15998280457052,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -2456,19 +2184,16 @@
     "state": "Palawan",
     "latitude": 9.780839373577223,
     "longitude": 118.74766844609644,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22.1,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22.1
       }
     ]
   },
@@ -2480,14 +2205,12 @@
     "state": "Zamboanga del Sur",
     "latitude": 7.826921081965949,
     "longitude": 123.43782963098101,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2499,14 +2222,12 @@
     "state": "Metro Manila",
     "latitude": 14.542093660071785,
     "longitude": 120.98230092670667,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2518,14 +2239,12 @@
     "state": "Metro Manila",
     "latitude": 14.641874434066082,
     "longitude": 121.09944628611697,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "DCharge (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 120,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 120
       }
     ]
   },
@@ -2537,14 +2256,12 @@
     "state": "Metro Manila",
     "latitude": 14.659671068452056,
     "longitude": 121.06004742322511,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2556,14 +2273,12 @@
     "state": "Metro Manila",
     "latitude": 14.526827007991884,
     "longitude": 121.04236210481963,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2575,19 +2290,16 @@
     "state": "Metro Manila",
     "latitude": 14.549405183407643,
     "longitude": 121.02494005997073,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -2599,19 +2311,16 @@
     "state": "Metro Manila",
     "latitude": 14.444879274273674,
     "longitude": 121.02742293372216,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
       }
     ]
   },
@@ -2623,19 +2332,16 @@
     "state": "Metro Manila",
     "latitude": 14.402842134655685,
     "longitude": 121.01658484516247,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
       }
     ]
   },
@@ -2647,14 +2353,12 @@
     "state": "Metro Manila",
     "latitude": 14.64735079605775,
     "longitude": 121.0360047026702,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -2666,14 +2370,12 @@
     "state": "Metro Manila",
     "latitude": 14.548633498859402,
     "longitude": 121.04745184732019,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -2685,14 +2387,12 @@
     "state": "Metro Manila",
     "latitude": 14.502664273953755,
     "longitude": 121.04819531558542,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2704,19 +2404,16 @@
     "state": "Metro Manila",
     "latitude": 14.505853717239546,
     "longitude": 121.04723880005372,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 120,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 120
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2728,19 +2425,16 @@
     "state": "Negros Occidental",
     "latitude": 10.676821409307479,
     "longitude": 122.95306151027637,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -2752,14 +2446,12 @@
     "state": "Capiz",
     "latitude": 11.569115958988263,
     "longitude": 122.75141653442256,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2771,14 +2463,12 @@
     "state": "Negros Oriental",
     "latitude": 9.298786150798236,
     "longitude": 123.30302706557995,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -2790,14 +2480,12 @@
     "state": "Camarines Sur",
     "latitude": 13.61733944608774,
     "longitude": 123.19097034226525,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2809,19 +2497,16 @@
     "state": "Iloilo",
     "latitude": 10.707661395860839,
     "longitude": 122.54891491153523,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -2833,14 +2518,12 @@
     "state": "Iloilo",
     "latitude": 10.694037191509395,
     "longitude": 122.56591914159048,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -2852,19 +2535,16 @@
     "state": "Iloilo",
     "latitude": 10.715471613826864,
     "longitude": 122.54500561366604,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -2876,14 +2556,12 @@
     "state": "Quezon",
     "latitude": 13.95251681747186,
     "longitude": 121.57842558295715,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -2895,19 +2573,16 @@
     "state": "Cebu",
     "latitude": 10.317271273890626,
     "longitude": 123.90562394868152,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -2919,19 +2594,16 @@
     "state": "Cebu",
     "latitude": 10.330694294201749,
     "longitude": 123.9072221686414,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -2943,14 +2615,12 @@
     "state": "Cebu",
     "latitude": 10.307475626333115,
     "longitude": 123.91331254465831,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -2962,19 +2632,16 @@
     "state": "Cebu",
     "latitude": 10.264925102203705,
     "longitude": 123.87634767482359,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
       }
     ]
   },
@@ -2986,19 +2653,16 @@
     "state": "Cebu",
     "latitude": 10.507930388288699,
     "longitude": 124.01213542358721,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -3010,19 +2674,16 @@
     "state": "Cebu",
     "latitude": 10.308417935907897,
     "longitude": 123.91224438050983,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -3034,14 +2695,12 @@
     "state": "Cebu",
     "latitude": 10.321040704933708,
     "longitude": 123.90982623773141,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -3053,19 +2712,16 @@
     "state": "Cebu",
     "latitude": 11.154932630788423,
     "longitude": 123.80499308209164,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Socket Only)",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -3077,19 +2733,16 @@
     "state": "Cebu",
     "latitude": 10.06993501463586,
     "longitude": 123.44710514056248,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Socket Only)",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -3101,19 +2754,16 @@
     "state": "Cebu",
     "latitude": 10.645192247593101,
     "longitude": 124.37447997682864,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Socket Only)",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
       }
     ]
   },
@@ -3125,19 +2775,16 @@
     "state": "Misamis Oriental",
     "latitude": 8.485454941236483,
     "longitude": 124.65103889983811,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -3149,14 +2796,12 @@
     "state": "Davao del Sur",
     "latitude": 7.089677507630185,
     "longitude": 125.61119085186328,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -3168,19 +2813,16 @@
     "state": "Davao del Sur",
     "latitude": 7.097721763922607,
     "longitude": 125.64888209905462,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -3192,19 +2834,16 @@
     "state": "Davao del Sur",
     "latitude": 7.090910830103539,
     "longitude": 125.61168130496003,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -3216,19 +2855,16 @@
     "state": "Davao del Sur",
     "latitude": 7.0776126076845856,
     "longitude": 125.6141125464394,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -3240,19 +2876,16 @@
     "state": "Davao del Sur",
     "latitude": 6.7597792650169595,
     "longitude": 125.34673938587162,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -3264,19 +2897,16 @@
     "state": "Davao del Norte",
     "latitude": 7.448684580115213,
     "longitude": 125.81168949370272,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
       }
     ]
   },
@@ -3288,24 +2918,20 @@
     "state": "Davao del Sur",
     "latitude": 7.080826477405012,
     "longitude": 125.61059255521309,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Socket Only)",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -3317,19 +2943,16 @@
     "state": "Batangas",
     "latitude": 13.664800876647007,
     "longitude": 121.37607380915108,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "EvoXCharge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Unknown",
+        "power_kw": 7
       }
     ]
   },
@@ -3342,18 +2965,15 @@
     "latitude": 14.654765632472689,
     "longitude": 120.53414401608893,
     "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 40,
-        "level": ""
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": 40
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
       }
     ]
   },
@@ -3365,14 +2985,12 @@
     "state": "Pampanga",
     "latitude": 15.164313310655558,
     "longitude": 120.60549711126839,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "WeCharge Hyperfast (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3384,14 +3002,12 @@
     "state": "Zambales",
     "latitude": 15.321603459422136,
     "longitude": 119.98549668698763,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3403,14 +3019,12 @@
     "state": "Bulacan",
     "latitude": 14.807815647372195,
     "longitude": 120.94207563685859,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3422,14 +3036,12 @@
     "state": "Zambales",
     "latitude": 14.85073968487147,
     "longitude": 120.26275419331614,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3441,14 +3053,12 @@
     "state": "Zambales",
     "latitude": 15.32613015718421,
     "longitude": 119.98830569112738,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3460,14 +3070,12 @@
     "state": "Bulacan",
     "latitude": 14.775620349602008,
     "longitude": 120.93883377513453,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -3479,14 +3087,12 @@
     "state": "Bulacan",
     "latitude": 14.858918453876854,
     "longitude": 120.97500049288215,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3498,14 +3104,12 @@
     "state": "Tarlac",
     "latitude": 15.558754531997138,
     "longitude": 120.64852744797963,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -3517,14 +3121,12 @@
     "state": "Zambales",
     "latitude": 14.928618672274695,
     "longitude": 120.06685526690887,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3536,14 +3138,12 @@
     "state": "Nueva Ecija",
     "latitude": 15.654332020180917,
     "longitude": 120.77802450927788,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3555,14 +3155,12 @@
     "state": "Bulacan",
     "latitude": 14.828923202256732,
     "longitude": 120.9605956744465,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Galaxy Charge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3574,14 +3172,12 @@
     "state": "Pampanga",
     "latitude": 15.026268936556917,
     "longitude": 120.6724405989363,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3593,14 +3189,12 @@
     "state": "Aurora",
     "latitude": 15.765717965342418,
     "longitude": 121.56387787963581,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3612,14 +3206,12 @@
     "state": "Metro Manila",
     "latitude": 14.592740545362943,
     "longitude": 121.0805475508962,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Tesla (Tesla-only charging)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 250,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 250
       }
     ]
   },
@@ -3631,14 +3223,12 @@
     "state": "Nueva Vizcaya",
     "latitude": 16.369727169950863,
     "longitude": 121.10206757319895,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3650,14 +3240,12 @@
     "state": "Isabela",
     "latitude": 17.053730389480066,
     "longitude": 121.8562048815545,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3669,14 +3257,12 @@
     "state": "Isabela",
     "latitude": 17.100084902824065,
     "longitude": 121.8559011678301,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3688,14 +3274,12 @@
     "state": "Isabela",
     "latitude": 16.936117589788353,
     "longitude": 121.77032283774156,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -3707,14 +3291,12 @@
     "state": "Isabela",
     "latitude": 16.71617857893034,
     "longitude": 121.68542632562139,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3726,14 +3308,12 @@
     "state": "Nueva Vizcaya",
     "latitude": 16.50853015795566,
     "longitude": 121.17560618209859,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -3745,14 +3325,12 @@
     "state": "Pangasinan",
     "latitude": 15.969984421824975,
     "longitude": 120.57118916348747,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -3764,14 +3342,12 @@
     "state": "La Union",
     "latitude": 16.221400338616647,
     "longitude": 120.50384563840225,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -3783,14 +3359,12 @@
     "state": "Ilocos Norte",
     "latitude": 18.179679554560153,
     "longitude": 120.59264234451348,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -3802,19 +3376,16 @@
     "state": "Metro Manila",
     "latitude": 14.54725916913614,
     "longitude": 121.04502429002491,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "EvoXCharge (PH)",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 40,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 40
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 40,
-        "level": ""
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": 40
       }
     ]
   },
@@ -3826,19 +3397,16 @@
     "state": "Pampanga",
     "latitude": 15.183113987082365,
     "longitude": 120.52672112027096,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "ParkNCharge (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 80,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 80
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 80,
-        "level": ""
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": 80
       }
     ]
   },
@@ -3850,19 +3418,16 @@
     "state": "Pangasinan",
     "latitude": 15.909187898051627,
     "longitude": 120.64054772922998,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "ParkNCharge (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 80,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 80
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 80,
-        "level": ""
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": 80
       }
     ]
   },
@@ -3874,29 +3439,24 @@
     "state": "Cebu",
     "latitude": 10.767338715994967,
     "longitude": 124.00567814440149,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": 60
       }
     ]
   },
@@ -3908,24 +3468,20 @@
     "state": "Cebu",
     "latitude": 11.054022380786137,
     "longitude": 124.0123914506812,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
       }
     ]
   },
@@ -3937,19 +3493,16 @@
     "state": "Zamboanga del Norte",
     "latitude": 8.562323031049644,
     "longitude": 123.33759544759755,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -3961,19 +3514,16 @@
     "state": "Cebu",
     "latitude": 10.340005497647283,
     "longitude": 123.9234703051676,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -3985,14 +3535,12 @@
     "state": "Negros Occidental",
     "latitude": 10.67647894505481,
     "longitude": 122.94921919242802,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 120,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 120
       }
     ]
   },
@@ -4004,14 +3552,12 @@
     "state": "Metro Manila",
     "latitude": 14.691766288440434,
     "longitude": 120.9692987800247,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -4024,23 +3570,19 @@
     "latitude": 14.61751023276743,
     "longitude": 121.06442565043415,
     "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
     "is_dc_fast": false,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 30,
-        "level": ""
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": 30
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": null
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
       }
     ]
   },
@@ -4052,19 +3594,16 @@
     "state": "Laguna",
     "latitude": 14.233130316632199,
     "longitude": 121.0536737853389,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -4076,19 +3615,16 @@
     "state": "Metro Manila",
     "latitude": 14.603485681439636,
     "longitude": 121.05806667246179,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "Solarius (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       }
     ]
   },
@@ -4100,19 +3636,16 @@
     "state": "Laguna",
     "latitude": 14.244704185235577,
     "longitude": 121.05990463947114,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   },
@@ -4124,29 +3657,24 @@
     "state": "Metro Manila",
     "latitude": 14.528660396182346,
     "longitude": 120.98878610429449,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 7.4,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7.4
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": null
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": null,
-        "level": ""
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
       }
     ]
   },
@@ -4158,19 +3686,1022 @@
     "state": "Bulacan",
     "latitude": 14.954738894789926,
     "longitude": 120.88596392169484,
-    "operator": "Independent / Unknown",
-    "usage_type": "Public Access",
+    "operator": "AC Mobility (PH)",
     "is_dc_fast": true,
     "connections": [
       {
-        "title": "Unknown Plug",
-        "power_kw": 60,
-        "level": ""
+        "title": "CCS (Type 2)",
+        "power_kw": 60
       },
       {
-        "title": "Unknown Plug",
-        "power_kw": 22,
-        "level": ""
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 475546,
+    "title": "EVOxCharge - Aurelia Residences",
+    "address": "Aurelia Residences, 5th Ave, Cor McKinley Pkwy, ",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.544912894841687,
+    "longitude": 121.04634696527614,
+    "operator": "EvoXCharge (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      },
+      {
+        "title": "CCS (Type 2)",
+        "power_kw": 20
+      }
+    ]
+  },
+  {
+    "id": 472706,
+    "title": "V-Green - SM North EDSA",
+    "address": "SM North EDSA, North Ave.",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.655750297301111,
+    "longitude": 121.03296668088205,
+    "operator": "V-Green (PH)",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "CCS (Type 2)",
+        "power_kw": 60
+      }
+    ]
+  },
+  {
+    "id": 472705,
+    "title": "SM City Tuguegarao e-Vehicle Charging Station",
+    "address": "SM City Tuguegarao, Bagay Road",
+    "town": "Tuguegarao City",
+    "state": "Cagayan",
+    "latitude": 17.628681432891767,
+    "longitude": 121.71821256995577,
+    "operator": "SM Supermalls (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 472704,
+    "title": "SM City Marilao e-Vehicle Charging Station",
+    "address": "SM City Marilao, MacArthur Hwy",
+    "town": "Marilao",
+    "state": "Bulacan",
+    "latitude": 14.75390843518268,
+    "longitude": 120.95491173211838,
+    "operator": "SM Supermalls (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 472703,
+    "title": "SM Center Pulilan e-Vehicle Charging Station",
+    "address": "SM Center Pulilan, Plaridel-Pulilan Diversion Rd",
+    "town": "Pulilan",
+    "state": "Bulacan",
+    "latitude": 14.89843936707608,
+    "longitude": 120.87037802028317,
+    "operator": "SM Supermalls (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 472702,
+    "title": "SM City Novaliches e-Vehicle Charging Station",
+    "address": "SM City Novaliches, Quirino Hwy",
+    "town": "Novaliches",
+    "state": "Metro Manila",
+    "latitude": 14.707526707916628,
+    "longitude": 121.03854894584947,
+    "operator": "SM Supermalls (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 472698,
+    "title": "ParkNCharge - SMDC Light Mall",
+    "address": "Madison Street",
+    "town": "Mandaluyong City",
+    "state": "Metro Manila",
+    "latitude": 14.574209704414315,
+    "longitude": 121.04918172901364,
+    "operator": "ParkNCharge (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 472530,
+    "title": "Forest Hills Golf and Country Club",
+    "address": "Forest Hills Golf and Country Club",
+    "town": "Antipolo City",
+    "state": "Rizal",
+    "latitude": 14.639512874954832,
+    "longitude": 121.19739833667279,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 472529,
+    "title": "Arbor Lanes",
+    "address": "Nexus Street",
+    "town": "Taguig",
+    "state": "Metro Manila",
+    "latitude": 14.506037886695765,
+    "longitude": 121.04978017766462,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 472528,
+    "title": "Landers Arca South",
+    "address": "Landers Arca South, cor East Union Dr.",
+    "town": "Taguig",
+    "state": "Metro Manila",
+    "latitude": 14.505882713958158,
+    "longitude": 121.0463409656171,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22.1
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22.1
+      }
+    ]
+  },
+  {
+    "id": 472525,
+    "title": "West Gallery Place",
+    "address": "West Gallery Place, 28th St. cor. 9th Ave ",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.549022277838148,
+    "longitude": 121.05114038951649,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 472522,
+    "title": "East Gallery Place",
+    "address": "East Gallery Place, 28th St. cor. 11th Ave.",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.548788144323282,
+    "longitude": 121.05231762812264,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 472521,
+    "title": "Highstreet B5 Parking",
+    "address": "B5 Parking, Lane O ",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.549773753111594,
+    "longitude": 121.05181007828298,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": null
+      }
+    ]
+  },
+  {
+    "id": 472518,
+    "title": "Seda Hotel BGC",
+    "address": "Seda Hotel BGC, 11th Ave. ",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.550661622486615,
+    "longitude": 121.05292789146256,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Socket Only)",
+        "power_kw": 22.1
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22.1
+      }
+    ]
+  },
+  {
+    "id": 472515,
+    "title": "BGC Corporate Center One",
+    "address": "11th Avenue",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.551364942207982,
+    "longitude": 121.05332856299401,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471534,
+    "title": "Avida Towers BGC 34th St. (Coming Soon)",
+    "address": "34th St.",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.554553560252629,
+    "longitude": 121.05454748133161,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471533,
+    "title": "Shell Recharge - Seven/NEO BGC",
+    "address": "Seven/NEO Building, 4th Ave.",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.550240023503832,
+    "longitude": 121.04654615291042,
+    "operator": "Shell Recharge (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471531,
+    "title": "BGC Corporate Center Two",
+    "address": "5th Ave.",
+    "town": "Taguig City",
+    "state": "Meto Manila",
+    "latitude": 14.552376930077415,
+    "longitude": 121.048641277647,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471158,
+    "title": "HSBC Centre",
+    "address": "HSBC Centre, 5th Ave.",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.5534741838798,
+    "longitude": 121.04822034011556,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 471157,
+    "title": "Bonifacio One Technology Tower",
+    "address": "Bonifacio One Technology Tower, 31st cor. Rizal Dr.",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.553927779130902,
+    "longitude": 121.04584031407535,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471156,
+    "title": "Bonifacio Stopover Corporate Center",
+    "address": "Bonifacio Stopover Corporate Center, 2nd Ave.",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.555000318190366,
+    "longitude": 121.04534254558052,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471155,
+    "title": "Bonifacio Technology Center",
+    "address": "32nd St. cor. 2nd Ave.",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.554666903554931,
+    "longitude": 121.04449199405826,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 471126,
+    "title": "Seda Hotel Manila Bay",
+    "address": "Seda Hotel Manila Bay, ASEAN Avenue",
+    "town": "Parañaque City",
+    "state": "Metro Manila",
+    "latitude": 14.524471441176331,
+    "longitude": 120.98873019844564,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Socket Only)",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471122,
+    "title": "BPI Magallanes South",
+    "address": "BPI Magallanes South, Santiago",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.536482380843864,
+    "longitude": 121.01816494067077,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 471116,
+    "title": "Glorietta 4",
+    "address": "Courtyard Dr.",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.55139892444501,
+    "longitude": 121.02642604099765,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22.1
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22.1
+      }
+    ]
+  },
+  {
+    "id": 471114,
+    "title": "The Link",
+    "address": "West St.",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.55281275595894,
+    "longitude": 121.02450011849578,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Socket Only)",
+        "power_kw": 22
+      },
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 471111,
+    "title": "6750 Ayala Avenue",
+    "address": "6750 Ayala Ave.",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.553136731983813,
+    "longitude": 121.02568281154868,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471109,
+    "title": "Greenbelt 3",
+    "address": "Esperanza Street",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.55195932463343,
+    "longitude": 121.02221492896001,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 30
+      },
+      {
+        "title": "GB-T DC - GB/T 20234.3",
+        "power_kw": 30
+      },
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      },
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 471104,
+    "title": "Dela Rosa Carpark 1",
+    "address": "Dela Rosa St.",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.555099449923134,
+    "longitude": 121.0219930807342,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471100,
+    "title": "Ayala Triangle Gardens Tower 2",
+    "address": "Makati Ave.",
+    "town": "Makati City",
+    "state": "Metro Manla",
+    "latitude": 14.55736836256385,
+    "longitude": 121.02493914466504,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      },
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 471098,
+    "title": "Makati Stock Exchange",
+    "address": "Ayala Ave.",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.556079266807444,
+    "longitude": 121.0236436537399,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22.1
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471097,
+    "title": "Ayala Tower One",
+    "address": "Ayala Ave",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.556522685575132,
+    "longitude": 121.02235748016187,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22.1
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22.1
+      }
+    ]
+  },
+  {
+    "id": 471056,
+    "title": "Valero Carpark 2",
+    "address": "Valero",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.558259527041344,
+    "longitude": 121.02303946829807,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 471055,
+    "title": "One Legazpi Park",
+    "address": "121, 1229 Rada",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.554835512441755,
+    "longitude": 121.01740671550397,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7.4
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7.4
+      }
+    ]
+  },
+  {
+    "id": 470846,
+    "title": "Solaris One",
+    "address": "Dela Rosa St.",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.557952363007345,
+    "longitude": 121.01732100986601,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Socket Only)",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 470845,
+    "title": "Convergys Tower One",
+    "address": "Convergys Tower One, De la Rosa Access Road 3",
+    "town": "Makati",
+    "state": "Metro Manila",
+    "latitude": 14.558758236583742,
+    "longitude": 121.01606356218736,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 470844,
+    "title": "Ayala Malls Circuit - East Gala Parking",
+    "address": "Theater Dr.",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.573364971767475,
+    "longitude": 121.01897894665353,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "CCS (Type 2)",
+        "power_kw": 60
+      }
+    ]
+  },
+  {
+    "id": 470843,
+    "title": "Ayala Malls Circuit - Theater Dr. Parking",
+    "address": "Theater Dr",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.572680138446017,
+    "longitude": 121.01969237928279,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 470842,
+    "title": "Landers ArcoVia",
+    "address": "99 Eugelio Rodriguez Jr. Ave.",
+    "town": "Pasig City",
+    "state": "Metro Manila",
+    "latitude": 14.577988529423948,
+    "longitude": 121.0774308961993,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22.1
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 470840,
+    "title": "Valley Golf & Country Club",
+    "address": "Valley Golf & Country Club, Don Celso Tuason Avenue",
+    "town": "Antipolo City",
+    "state": "Rizal",
+    "latitude": 14.604366933922705,
+    "longitude": 121.14083076595682,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7.4
+      }
+    ]
+  },
+  {
+    "id": 470839,
+    "title": "BOSCH Car Service Sumulong Highway",
+    "address": "BOSCH Car Service Sumulong Highway, Autos 201 Bldg.",
+    "town": "Antipolo City",
+    "state": "Rizal",
+    "latitude": 14.611986558105215,
+    "longitude": 121.15757423124944,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7.4
+      },
+      {
+        "title": "GB-T AC - GB/T 20234.2 (Tethered Cable)",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 470838,
+    "title": "Shell Recharge - Robinsons Galleria",
+    "address": "Robinsons Galleria, EDSA",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.591769825371628,
+    "longitude": 121.05874006470617,
+    "operator": "Shell Recharge (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 470837,
+    "title": "Robinsons Galleria e-charge Charging Station",
+    "address": "Robinsons Galleria, Ortigas Ave.",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.592078356769917,
+    "longitude": 121.05902886891795,
+    "operator": "Independent / Unknown",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      },
+      {
+        "title": "Unknown",
+        "power_kw": null
+      }
+    ]
+  },
+  {
+    "id": 470836,
+    "title": "Camp Aguinaldo Golf Club",
+    "address": "Camp Aguinaldo Golf Club, P. Santos Ave, EDSA",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.605486260633796,
+    "longitude": 121.05815453746413,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 470835,
+    "title": "Shell Recharge - Robinsons Manila",
+    "address": "Padre Faura St.",
+    "town": "Manila",
+    "state": "Metro Manila",
+    "latitude": 14.578291108201853,
+    "longitude": 120.98346533512085,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 470834,
+    "title": "ETY Building",
+    "address": "ETY Building, Quintin Paredes St.",
+    "town": "Manila",
+    "state": "Metro Manila",
+    "latitude": 14.598712476911658,
+    "longitude": 120.97596458017415,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 470826,
+    "title": "Camp John Hay Public Parking",
+    "address": "Camp John Hay Public Parking, Ordonio Drive",
+    "town": "Baguio City",
+    "state": "Benguet",
+    "latitude": 16.399907555870925,
+    "longitude": 120.6152678795545,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 470825,
+    "title": "John Hay Hotels Garden Wing",
+    "address": "Ordonio Drive",
+    "town": "Baguio City",
+    "state": "Benguet",
+    "latitude": 16.40040096541442,
+    "longitude": 120.61710443379707,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "CCS (Type 2)",
+        "power_kw": 60
+      },
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
+      }
+    ]
+  },
+  {
+    "id": 470823,
+    "title": "Camp John Hay Golf Club",
+    "address": "Camp John Hay Golf Club, Sheridan Dr",
+    "town": "Baguio City",
+    "state": "Benguet",
+    "latitude": 16.407447477233433,
+    "longitude": 120.61324317618812,
+    "operator": "AC Mobility (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 7
+      }
+    ]
+  },
+  {
+    "id": 470797,
+    "title": "Shell Recharge - Promenade Mall Greenhills Missouri Parking",
+    "address": "Missouri",
+    "town": "San Juan",
+    "state": "Metro Manila",
+    "latitude": 14.602845802962605,
+    "longitude": 121.05202118261104,
+    "operator": "Shell Recharge (PH)",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Type 2 (Tethered Connector) ",
+        "power_kw": 22
       }
     ]
   }

@@ -1,63 +1,62 @@
 import json
 import os
+import sys
+import tempfile
 import requests
 from dotenv import load_dotenv
+
 load_dotenv()
 
-
-# Set API URL for Open Charge Map (Philippine POIs)
 API_URL = "https://api.openchargemap.io/v3/poi/"
 API_KEY = os.getenv("OPENCHARGEMAP_API_KEY", "")
-
-params = {
-    "output": "json",
-    "countrycode": "PH",
-    "maxresults": 200,
-    "compact": "true",
-    "verbose": "false",
-}
 
 headers = {}
 if API_KEY:
     headers["X-API-Key"] = API_KEY
 
-print("Fetching Philippine EV charging station data...")
-response = requests.get(API_URL, params=params, headers=headers)
+params = {
+    "output": "json",
+    "countrycode": "PH",
+    "maxresults": 250,  # Requested snapshot size; not a verified national total
+    "compact": "false",
+    "verbose": "false",
+}
 
-if response.status_code != 200:
-    print(f"Failed to fetch data: HTTP {response.status_code}")
-    exit(1)
+print("Fetching up to 250 Philippine EV charging stations...")
 
-raw_data = response.json()
-print(f"Retrieved {len(raw_data)} raw records.")
+try:
+    response = requests.get(API_URL, params=params, headers=headers, timeout=15)
+    response.raise_for_status()
+    all_raw_data = response.json()
+    if not isinstance(all_raw_data, list) or not all_raw_data:
+        raise ValueError("Expected a non-empty list of station records")
+except (requests.RequestException, ValueError) as e:
+    print(f"Ingestion failed ({type(e).__name__}). Existing dataset was not changed.")
+    sys.exit(1)
 
-# Parse and clean station records
+if len(all_raw_data) >= params["maxresults"]:
+    print("Warning: response reached the requested limit. The dataset may be truncated; national coverage is not verified.")
+
 processed_stations = []
 
-for item in raw_data:
-    address_info = item.get("AddressInfo", {})
+for item in all_raw_data:
+    address_info = item.get("AddressInfo", {}) or {}
     operator_info = item.get("OperatorInfo", {}) or {}
     connections = item.get("Connections", []) or []
 
-    # Format connections/plugs list
     parsed_connections = []
     is_dc_fast = False
 
     for conn in connections:
-        conn_type = conn.get("ConnectionType", {}).get("Title", "Unknown Plug")
+        conn_type = (conn.get("ConnectionType") or {}).get("Title") or "Unknown Plug"
         kw_output = conn.get("PowerKW")
-        level_info = conn.get("Level", {}).get("Title", "")
-
         if kw_output and kw_output >= 50:
             is_dc_fast = True
+        parsed_connections.append({"title": conn_type, "power_kw": kw_output})
 
-        parsed_connections.append(
-            {
-                "title": conn_type,
-                "power_kw": kw_output,
-                "level": level_info,
-            }
-        )
+    operator_title = operator_info.get("Title") or "Independent / Unknown"
+    if operator_title.lower() in ["(unknown operator)", "unknown operator"]:
+        operator_title = "Independent / Unknown"
 
     station = {
         "id": item.get("ID"),
@@ -67,24 +66,30 @@ for item in raw_data:
         "state": address_info.get("StateOrProvince", ""),
         "latitude": address_info.get("Latitude"),
         "longitude": address_info.get("Longitude"),
-        "operator": operator_info.get("Title", "Independent / Unknown"),
-        "usage_type": item.get("UsageType", {}).get(
-            "Title", "Public Access"
-        ),
+        "operator": operator_title,
         "is_dc_fast": is_dc_fast,
         "connections": parsed_connections,
     }
 
-    if station["latitude"] and station["longitude"]:
+    lat, lng = station["latitude"], station["longitude"]
+    if (isinstance(lat, (int, float)) and not isinstance(lat, bool)
+            and isinstance(lng, (int, float)) and not isinstance(lng, bool)
+            and -90 <= lat <= 90 and -180 <= lng <= 180):
         processed_stations.append(station)
 
-# Create data output directory if it doesn't exist
+if not processed_stations:
+    print("Ingestion failed: no valid station coordinates. Existing dataset was not changed.")
+    sys.exit(1)
+
 os.makedirs("data", exist_ok=True)
-output_path = "data/ph_stations.json"
+temporary_path = None
+try:
+    with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir="data", suffix=".tmp", delete=False) as f:
+        temporary_path = f.name
+        json.dump(processed_stations, f, indent=2, ensure_ascii=False, allow_nan=False)
+    os.replace(temporary_path, "data/ph_stations.json")
+finally:
+    if temporary_path and os.path.exists(temporary_path):
+        os.remove(temporary_path)
 
-with open(output_path, "w", encoding="utf-8") as f:
-    json.dump(processed_stations, f, indent=2, ensure_ascii=False)
-
-print(
-    f"Successfully processed {len(processed_stations)} stations and saved to '{output_path}'!"
-)
+print(f"Done! Saved {len(processed_stations)} charging stations in the current dataset to 'data/ph_stations.json'.")

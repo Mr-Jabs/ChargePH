@@ -5,9 +5,9 @@ import { twMerge } from 'tailwind-merge';
 export function cn(...inputs: ClassValue[]) { return twMerge(clsx(inputs)); }
 export type Station = {
   id: number; title: string; address: string; town: string; state: string;
-  latitude: number; longitude: number; operator: string; usage_type: string;
+  latitude: number; longitude: number; operator: string; usage_type?: string;
   is_dc_fast: boolean;
-  connections: { title: string; power_kw: number | null; level: string }[];
+  connections: { title: string; power_kw: number | null; level?: string }[];
 };
 export const stations: Station[] = records.filter(s => Number.isFinite(s.latitude) && Number.isFinite(s.longitude));
 export function standard(title: string) {

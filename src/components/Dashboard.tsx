@@ -144,6 +144,8 @@ export default function Dashboard() {
   const dc = filtered.filter((s) => s.is_dc_fast).length;
   const provinces = new Set(filtered.map((s) => s.state).filter(Boolean)).size;
   const activeCount = operators.length + plugs.length + Number(fastOnly);
+  const unknownOperators = stations.filter(s => /unknown/i.test(s.operator)).length;
+  const unknownPlugs = stations.filter(s => s.connections.some(c => standard(c.title) === "Unknown")).length;
   function filterChanged() {
     setSelectedId(null);
     setViewMode(userLocation ? "nearest" : query.trim() ? "search" : "explore");
@@ -337,13 +339,13 @@ export default function Dashboard() {
                 aria-labelledby="overview-tab"
               >
                 <div className="section-caption">
-                  NETWORK AT A GLANCE <span>01</span>
+                  CURRENT DATASET <span>01</span>
                 </div>
                 <div className="metric-grid">
                   <div className="metric-card">
                     <span className="metric-label">
                       <MapPin size={14} />
-                      Total stations
+                      {filtered.length === stations.length ? "Dataset stations" : "Matching stations"}
                     </span>
                     <strong>
                       {filtered.length.toLocaleString()}
@@ -378,10 +380,11 @@ export default function Dashboard() {
                       {filtered.length
                         ? Math.round((dc / filtered.length) * 100)
                         : 0}
-                      % of selected network
+                      % of filtered dataset
                     </span>
                   </button>
                 </div>
+                <p className="dataset-scope">Counts describe the current dataset. Coverage may be incomplete; this is not a Philippine national total.</p>
                 <div className="network-bar">
                   <span
                     style={{
@@ -428,7 +431,7 @@ export default function Dashboard() {
                 ))}
                 <p className="data-note">
                   <Radio size={13} />
-                  Operator details are unspecified in this dataset.
+                  {unknownOperators ? `${unknownOperators} records have unspecified operators.` : "Operators as reported by Open Charge Map."}
                 </p>
               </div>
             ) : (
@@ -548,7 +551,7 @@ export default function Dashboard() {
                 ))}
               </div>
               <p className="plug-note">
-                Connector standards are currently unspecified.
+                {unknownPlugs ? `${unknownPlugs} station records have unspecified plugs.` : "Connector standards as reported by Open Charge Map."}
               </p>
               <button
                 role="switch"
@@ -738,7 +741,7 @@ export default function Dashboard() {
           <div className="map-status" role="status">
             <span className="live-dot" />
             <strong>{filtered.length}</strong>
-            <span>stations on the map</span>
+            <span>{filtered.length === stations.length ? "charging stations in the current dataset" : `of ${stations.length} dataset stations match filters`}</span>
             {filtered.length !== stations.length && (
               <button onClick={reset}>
                 Clear filters <X size={12} />
@@ -809,11 +812,13 @@ export default function Dashboard() {
             </h2>
             <p>
               ChargePH visualizes {stations.length} Philippine station records
-              from the local Open Charge Map dataset. This is a snapshot, not a
-              live availability service.
+              from the local Open Charge Map dataset. API results can be capped,
+              so this snapshot may be incomplete and is not a verified national
+              total or a live availability service.
             </p>
             <p>
-              Operator and connector names are unspecified in the supplied data.
+              Operator and connector names are shown where supplied; missing
+              values remain unknown.
               DC fast charging follows the dataset’s classification (at least 50
               kW). Station records may overlap, and power ratings do not
               guarantee availability or access.
