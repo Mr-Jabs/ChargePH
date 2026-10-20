@@ -1,0 +1,4177 @@
+[
+  {
+    "id": 508093,
+    "title": "NLEX (SB) MEXICO PAMPANGA",
+    "address": "North Luzon Expressway",
+    "town": "Mexico",
+    "state": "Pampanga",
+    "latitude": 15.128918358846349,
+    "longitude": 120.64336334097311,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 120,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 508092,
+    "title": "NLEX(SB) MEXICO PAMPANGA",
+    "address": "North Luzon Expressway",
+    "town": "Mexico",
+    "state": "Pampanga",
+    "latitude": 15.128966102128715,
+    "longitude": 120.64334714914025,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 120,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 501822,
+    "title": "Quarker - Parqal Mall",
+    "address": "Parqal Mall, A. Luz Drive",
+    "town": "Parañaque City",
+    "state": "Metro Manila",
+    "latitude": 14.527038782876403,
+    "longitude": 120.98948647457178,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 501821,
+    "title": "SEAcharge - SEAOIL Rosario, La Union",
+    "address": "SEAOIL Rosario, La Union, MacArthur Highway",
+    "town": "Rosario",
+    "state": "La Union",
+    "latitude": 16.224984226460094,
+    "longitude": 120.49960000879526,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 501743,
+    "title": "Tesla Destination Charger - Arthaland Century Pacific Tower",
+    "address": "Arthaland Century Pacific Tower, 30th Street",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.552787853958947,
+    "longitude": 121.04752357063387,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 11,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 501742,
+    "title": "Century City Mall",
+    "address": "Century City Mall, Kalayaan Avenue",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.565562844970572,
+    "longitude": 121.0278365608001,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 11,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 501741,
+    "title": "Tesla Destination Charger - SM City Clark",
+    "address": "SM City Clark, Central Blvd.",
+    "town": "Angeles City",
+    "state": "Pampanga",
+    "latitude": 15.170343434012551,
+    "longitude": 120.58012686654774,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 11,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 501740,
+    "title": "Tesla Destination Charger - Southwoods Mall",
+    "address": "Southwoods Mall, Ecocentrum Avenue",
+    "town": "Biñan",
+    "state": "Laguna",
+    "latitude": 14.331428307823401,
+    "longitude": 121.05054029535506,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 10,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 501739,
+    "title": "WeCharge Hyperfast - SMDC Shore Residences",
+    "address": "SMDC Shore Residences, Seaside Boulevard",
+    "town": "Pasay City",
+    "state": "Metro Manila",
+    "latitude": 14.54208753913359,
+    "longitude": 120.98476806037115,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 501738,
+    "title": "WeCharge HyperFast - SM City Clark",
+    "address": "SM Clark",
+    "town": "Angeles City",
+    "state": "Pampanga",
+    "latitude": 15.17029536072377,
+    "longitude": 120.57972358434426,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 500984,
+    "title": "Camp Aguinaldo Soldiers' Mall",
+    "address": "Crame Avenue",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.604526122486007,
+    "longitude": 121.0637995183049,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 500124,
+    "title": "Menarco Tower",
+    "address": "Menarco Tower, 32nd Street",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.55293858559628,
+    "longitude": 121.05289466079284,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 500123,
+    "title": "PTTC Park Triangle Corporate Center",
+    "address": "Rizal Drive",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.552565051510328,
+    "longitude": 121.05536112217965,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 499381,
+    "title": "One Ayala Basement Charge Hub",
+    "address": "One Ayala, Ayala Ave.",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.55039734976495,
+    "longitude": 121.02770361425473,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 498837,
+    "title": "Starbucks Ortigas Avenue Extension",
+    "address": "Ortigas Avenue Extension",
+    "town": "Pasig City",
+    "state": "Metro Manila",
+    "latitude": 14.58988264963861,
+    "longitude": 121.08825858528212,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 498836,
+    "title": "Portico Phase 1",
+    "address": "Capt. Henry Javier St.",
+    "town": "Pasig City",
+    "state": "Metro Manila",
+    "latitude": 14.57399105033403,
+    "longitude": 121.06548467104221,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 498048,
+    "title": "Glorietta 2 Carpark",
+    "address": "Palm Drive",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.550971995285408,
+    "longitude": 121.02493212517857,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497425,
+    "title": "Vermosa Transport Terminal",
+    "address": "Daang Hari",
+    "town": "Imus",
+    "state": "Cavite",
+    "latitude": 14.386133059603523,
+    "longitude": 120.96196818348426,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 120,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497424,
+    "title": "ArmyNavy Kawit, Cavite",
+    "address": "ArmyNavy Kawit, Soriano Highway",
+    "town": "Kawit",
+    "state": "Cavite",
+    "latitude": 14.431137835341431,
+    "longitude": 120.89725390609487,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497272,
+    "title": "TOPS Cebu",
+    "address": "TOPS Cebu, Cebu Tops Road",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.370955902134654,
+    "longitude": 123.87085829048488,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497262,
+    "title": "City Times Square",
+    "address": "City Times Square, F.F. Cruz Avenue",
+    "town": "Mandaue City",
+    "state": "Cebu",
+    "latitude": 10.326386924417378,
+    "longitude": 123.9328542891758,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497261,
+    "title": "BPI Cebu North Reclamation",
+    "address": "BPI Cebu North Reclamation, Juan Luna Ave Ext Cor. J. De Veyra St.",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.310642013041672,
+    "longitude": 123.91736816058756,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497260,
+    "title": "BPI Cebu Jones",
+    "address": "BPI Cebu Jones, 948 Osmeña Blvd.",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.30340578494534,
+    "longitude": 123.89564803338453,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497257,
+    "title": "BPI Cebu Capitol",
+    "address": "Jasmine Street",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.312900681697144,
+    "longitude": 123.8916019998544,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497255,
+    "title": "BYD Malolos",
+    "address": "BYD Malolos, MacArthur Highway",
+    "town": "Malolos",
+    "state": "Bulacan",
+    "latitude": 14.844712197307913,
+    "longitude": 120.83845148672617,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497100,
+    "title": "Shell Matina Enclaves Davao",
+    "address": "Shell Matina Enclaves Davao, Quimpo Boulevard",
+    "town": "Davao City",
+    "state": "Davao del Sur",
+    "latitude": 7.050014671994646,
+    "longitude": 125.58492848927244,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497099,
+    "title": "Shell Bago Aplaya Talomo",
+    "address": "Shell Bago Aplaya Talomo, MacArthur Highway",
+    "town": "Davao City",
+    "state": "Davao del Sur",
+    "latitude": 7.042619216836471,
+    "longitude": 125.52878914437542,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497097,
+    "title": "Manolo Fortich Tourist Rest Area",
+    "address": "Manolo Fortich Tourist Rest Area, TRA 1",
+    "town": "Manolo Fortich",
+    "state": "Bukidnon",
+    "latitude": 8.369002429089107,
+    "longitude": 124.86735270364,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 497096,
+    "title": "SkyBright New Energy",
+    "address": "SkyBright New Energy, Unit 6, Solid Bldg.",
+    "town": "Iloilo City",
+    "state": "Iloilo",
+    "latitude": 10.709281148967818,
+    "longitude": 122.55114357564753,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496949,
+    "title": "Purple Residences",
+    "address": "Purple Residences, Maharlika Highway",
+    "town": "Naga City",
+    "state": "Camarines Sur",
+    "latitude": 13.617054211067384,
+    "longitude": 123.2376096251794,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496948,
+    "title": "Bicol Petroleum - Rogelio's Cafe",
+    "address": "Bicol Petroleum - Rogelio's Cafe, Maharlika Highway",
+    "town": "Baao",
+    "state": "Camarines Sur",
+    "latitude": 13.48487610971138,
+    "longitude": 123.33576882617581,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496946,
+    "title": "Microtel by Wyndham Pampanga",
+    "address": "Microtel by Wyndham Pampanga, Jose Abad Santos Avenue",
+    "town": "San Fernando",
+    "state": "Pampanga",
+    "latitude": 15.047135171894581,
+    "longitude": 120.68769152158154,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496945,
+    "title": "ArmyNavy Friendship Hwy",
+    "address": "Friendship Highway",
+    "town": "Angeles City",
+    "state": "Pampanga",
+    "latitude": 15.1518360154422,
+    "longitude": 120.5594593071952,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496944,
+    "title": "Midori Clark Hotel and Casino",
+    "address": "Midori Clark Hotel and Casino, Claro M. Recto Highway",
+    "town": "Angeles City",
+    "state": "Pampanga",
+    "latitude": 15.193597422902343,
+    "longitude": 120.52196780919508,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496943,
+    "title": "Microtel by Wyndham Cabanatuan",
+    "address": "Microtel by Wyndham Cabanatuan, Cabanatuan-Papaya Road",
+    "town": "Cabanatuan City",
+    "state": "Nueva Ecija",
+    "latitude": 15.46943651502221,
+    "longitude": 120.98108200157753,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496942,
+    "title": "Shell Subic Zambales",
+    "address": "Zambales Highway",
+    "town": "Subic",
+    "state": "Zambales",
+    "latitude": 14.875284301054577,
+    "longitude": 120.23515539929622,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496941,
+    "title": "Metro Oil Gas Station DRT",
+    "address": "Doña Remedios Trinidad Highway",
+    "town": "Baliwag",
+    "state": "Bulacan",
+    "latitude": 14.967255637435514,
+    "longitude": 120.90360352298171,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496940,
+    "title": "BYD Subic",
+    "address": "BYD Subic, Active St.",
+    "town": "Subic",
+    "state": "Zambales",
+    "latitude": 14.823892436743364,
+    "longitude": 120.29820075976795,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496939,
+    "title": "Zen Hotel Bayombong",
+    "address": "Zen Hotel Bayombong, Maharlika Highway",
+    "town": "Bayombong",
+    "state": "Nueva Vizcaya",
+    "latitude": 16.504024437747603,
+    "longitude": 121.17345475988873,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496938,
+    "title": "Shell Tanaytay Alaminos Pangasinan",
+    "address": "Shell Tanaytay Alaminos Pangasinan, Alaminos-Bugallon Road",
+    "town": "Alaminos City",
+    "state": "Pangasinan",
+    "latitude": 16.145640807456857,
+    "longitude": 119.98947869353674,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496937,
+    "title": "BYD Bauang La Union",
+    "address": "BYD Bauang La Union, MacArthur Highway",
+    "town": "Bauang",
+    "state": "La Union",
+    "latitude": 16.524448537123106,
+    "longitude": 120.32995805969233,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496936,
+    "title": "Shell Mangaldan Pangasinan",
+    "address": "Shell Mangaldan Pangasinan, Estayo Street",
+    "town": "Mangaldan",
+    "state": "Pangasinan",
+    "latitude": 16.074787197887318,
+    "longitude": 120.40140077140086,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 496800,
+    "title": "Pinewoods Golf Club Baguio",
+    "address": "Pinewoods Golf Club Baguio",
+    "town": "Tuba",
+    "state": "Benguet",
+    "latitude": 16.397995091799118,
+    "longitude": 120.56514227801063,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 494520,
+    "title": "Shell Mexico NLEX Northbound KM77 NLT4",
+    "address": "North Luzon Expressway",
+    "town": "Mexico",
+    "state": "Pampanga",
+    "latitude": 15.136061539969745,
+    "longitude": 120.63957359013784,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 120,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 30,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 490723,
+    "title": "Galaxy Charge - FORD888 Gas Station",
+    "address": "17 Bs Aquino, Baliwag, 3006 Bulacan, Philippines",
+    "town": "Baliwag",
+    "state": "Bulacan",
+    "latitude": 14.965737253976627,
+    "longitude": 120.89713816285587,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 490722,
+    "title": "Galaxy Charge - Sky Garage",
+    "address": "Unit A1, MGC Bldg, Santa Rosa - Tagaytay Rd, Silang, 4118 Cavite",
+    "town": "Cavite",
+    "state": "",
+    "latitude": 14.222914895593576,
+    "longitude": 121.03764511693771,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 490721,
+    "title": "Galaxy Charge - Jollibee Calumpit",
+    "address": "WQ78+6MJ, R-9, Calumpit, Bulacan",
+    "town": "Calumpit",
+    "state": "Bulacan",
+    "latitude": 14.913048830256912,
+    "longitude": 120.76642512323747,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 490720,
+    "title": "Galaxy Charge - Unicity San Pedro",
+    "address": "Maharlika Hwy",
+    "town": "San Pedro",
+    "state": "Laguna",
+    "latitude": 14.351576825197384,
+    "longitude": 121.06315798273454,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 490719,
+    "title": "Galaxy Charge - Salon of the Stars",
+    "address": "83GV+5XH, Biñan, Laguna, Philippines",
+    "town": " Biñan",
+    "state": "Laguna",
+    "latitude": 14.325190747095476,
+    "longitude": 121.09492030580736,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 490718,
+    "title": "Galaxy Charge—Unicity trece martires",
+    "address": "7VQ9+P79, Trece Martires City, Cavite, Philippines",
+    "town": "Cavite",
+    "state": "",
+    "latitude": 14.284191709662025,
+    "longitude": 120.85884584365635,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 490717,
+    "title": "Galaxy Charge—Xtremely Xpresso CAFE",
+    "address": "#1 Dewey Avenue Subic Bay Freeport Zone, 1 Dewey Ave, Olongapo City, 2200 Zambales, Philippines",
+    "town": "Orani",
+    "state": "Bataan",
+    "latitude": 14.802641378140152,
+    "longitude": 120.46609381051871,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486484,
+    "title": "EVOxCharge - Escala Tagaytay",
+    "address": "Escala Tagaytay, Tagaytay-Nasugbu Hwy",
+    "town": "Tagaytay City",
+    "state": "Cavite",
+    "latitude": 14.094721263434622,
+    "longitude": 120.94071332119029,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486483,
+    "title": "Boost+ NU Mall of Asia (NUMA)",
+    "address": "NU Mall of Asia (NUMA), Coral Way",
+    "town": "Pasay City",
+    "state": "Metro Manila",
+    "latitude": 14.530613102692087,
+    "longitude": 120.9811204337991,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486482,
+    "title": "Robinsons Place Butuan",
+    "address": "Robinsons Place Butuan, Jose C. Aquino Avenue",
+    "town": "Butuan City",
+    "state": "Agusan del Norte",
+    "latitude": 8.942516515296063,
+    "longitude": 125.51990046858361,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486481,
+    "title": "BYD Valenzuela",
+    "address": "BYD Valenzuela, MacArthur Highway",
+    "town": "Valenzuela City",
+    "state": "Metro Manila",
+    "latitude": 14.685153091749385,
+    "longitude": 120.97644387191201,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486472,
+    "title": "BYD Quezon Avenue",
+    "address": "BYD Quezon Ave, Quezon Avenue",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.62851969454131,
+    "longitude": 121.01385294015438,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486428,
+    "title": "SM City General Santos e-Vehicle Charging Station",
+    "address": "SM City General Santos, San Miguel Street",
+    "town": "General Santos City",
+    "state": "General Santos City",
+    "latitude": 6.1160610231070365,
+    "longitude": 125.18237525763732,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486427,
+    "title": "SM Lanang e-Vehicle Charging Station",
+    "address": "SM Lanang, J. P. Laurel Avenue",
+    "town": "Davao City",
+    "state": "Davao del Sur",
+    "latitude": 7.098363970453477,
+    "longitude": 125.63010801660505,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486426,
+    "title": "SM City Davao e-Vehicle Charging Station",
+    "address": "SM City Davao, Quimpo Boulevard",
+    "town": "Davao City",
+    "state": "Davao del Sur",
+    "latitude": 7.049895608027683,
+    "longitude": 125.58642986634459,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486425,
+    "title": "SM CDO Uptown e-Vehicle Charging Station",
+    "address": "SM CDO Uptown, Beacon Avenue",
+    "town": "Cagayan de Oro",
+    "state": "Misamis Oriental",
+    "latitude": 8.456124705689291,
+    "longitude": 124.622434906889,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486424,
+    "title": "SM CDO Downtown e-Vehicle Charging Station",
+    "address": "SM CDO Downtown, C. M. Recto Avenue",
+    "town": "Cagayan de Oro",
+    "state": "Misamis Oriental",
+    "latitude": 8.484398944510048,
+    "longitude": 124.65513496484641,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486423,
+    "title": "SM City Sorsogon e-Vehicle Charging Station",
+    "address": "SM City Sorsogon, Maharlika Highway",
+    "town": "Sorsogon City",
+    "state": "Sorsogon",
+    "latitude": 12.976295471539743,
+    "longitude": 124.01899446500636,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486422,
+    "title": "EVOxCharge - SM City Daet e-Vehicle Charging Station",
+    "address": "SM City Daet, Vinzons Avenue",
+    "town": "Daet",
+    "state": "Camarines Norte",
+    "latitude": 14.12169659863902,
+    "longitude": 122.94607599311121,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7.4,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486421,
+    "title": "SM City Bacolod e-Vehicle Charging Station",
+    "address": "SM City Bacolod, Simplicio A. Palanca Avenue",
+    "town": "Bacolod",
+    "state": "Negros Occidental",
+    "latitude": 10.673325360596792,
+    "longitude": 122.9437833354134,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486291,
+    "title": "SM City Caloocan e-Vehicle Charging Station",
+    "address": "SM City Caloocan, Malapitan Road",
+    "town": "Caloocan City",
+    "state": "Metro Manila",
+    "latitude": 14.75126681785116,
+    "longitude": 121.02000789424778,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486185,
+    "title": "SM Center Muntinlupa e-Vehicle Charging Station",
+    "address": "SM Center Muntinlupa, National Road",
+    "town": "Muntinlupa City",
+    "state": "Metro Manila",
+    "latitude": 14.3777099765273,
+    "longitude": 121.04568339767297,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 486184,
+    "title": "Landers Balintawak",
+    "address": "Landers Balintawak, EDSA",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.658354640543223,
+    "longitude": 121.01219662636584,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485993,
+    "title": "SM City Zamboanga e-Vehicle Charging Station",
+    "address": "SM City Zamboanga, Mayor Vitaliano D. Agan Avenue",
+    "town": "Zamboanga City",
+    "state": "Zamboanga del Sur",
+    "latitude": 6.918078015045111,
+    "longitude": 122.07610319370951,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485992,
+    "title": "SM City Mindpro e-Vehicle Charging Station",
+    "address": "SM City Mindpro, La Purisima Street",
+    "town": "Zamboanga City",
+    "state": "Zamboanga del Sur",
+    "latitude": 6.907778871869766,
+    "longitude": 122.0761320883123,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485991,
+    "title": "SM City San Pablo e-Vehicle Charging Station",
+    "address": "SM City San Pablo, Maharlika Highway",
+    "town": "San Pablo",
+    "state": "Laguna",
+    "latitude": 14.070412085982042,
+    "longitude": 121.30224317848638,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485990,
+    "title": "SM City Rosario e-Vehicle Charging Station",
+    "address": "SM City Rosario, General Trias Dr.",
+    "town": "Rosario",
+    "state": "Cavite",
+    "latitude": 14.409706034107117,
+    "longitude": 120.85817298855613,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485984,
+    "title": "Jollibee Muzon San Luis Batangas",
+    "address": "Jollibee Muzon San Luis Batangas, National Highway 436",
+    "town": "San Luis",
+    "state": "Batangas",
+    "latitude": 13.855616322904893,
+    "longitude": 120.98830759924999,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485983,
+    "title": "BYD Lipa",
+    "address": "President Jose P. Laurel Highway",
+    "town": "Philippines",
+    "state": "Batangas",
+    "latitude": 13.941647983100466,
+    "longitude": 121.13905621651543,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485931,
+    "title": "SM Center Imus e-Vehicle Charging Station",
+    "address": "SM Center Imus, N.I.A. Rd.",
+    "town": "Imus",
+    "state": "Cavite",
+    "latitude": 14.408920174985141,
+    "longitude": 120.9245912975266,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485930,
+    "title": "Microtel South Forbes",
+    "address": "South Boulevard",
+    "town": "Silang",
+    "state": "Cavite",
+    "latitude": 14.248832633724547,
+    "longitude": 121.04841336454774,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485929,
+    "title": "Landers Nuvali",
+    "address": "Landers Nuvali, Nuvali Boulevard",
+    "town": "Santa Rosa",
+    "state": "Laguna",
+    "latitude": 14.23386662813374,
+    "longitude": 121.0567586820523,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485928,
+    "title": "SM City Telabastagan e-Vehicle Charging Station",
+    "address": "SM City Telabastagan, MacArthur Highway",
+    "town": "San Fernando",
+    "state": "Pampanga",
+    "latitude": 15.121300331785719,
+    "longitude": 120.60104265954737,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485769,
+    "title": "BYD Bacoor",
+    "address": "BYD Bacoor, Bacoor Boulevard",
+    "town": "Bacoor",
+    "state": "Cavite",
+    "latitude": 14.416291853655693,
+    "longitude": 120.96749171428974,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485768,
+    "title": "Robinsons Santiago",
+    "address": "Robinsons Santiago, Maharlika Highway",
+    "town": "Santiago",
+    "state": "Isabela",
+    "latitude": 16.696421894076764,
+    "longitude": 121.56079238055213,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485767,
+    "title": "BPI Cagayan de Oro Lapasan",
+    "address": "BPI Cagayan de Oro Lapasan, Ororama-Macalajar Access Rd",
+    "town": "Cagayan de Oro City",
+    "state": "Misamis Oriental",
+    "latitude": 8.483868060184435,
+    "longitude": 124.65878875504563,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485558,
+    "title": "Zen Hotel Santiago",
+    "address": "Zen Hotel Santiago, Maharlika Highway",
+    "town": "Santiago City",
+    "state": "Isabela",
+    "latitude": 16.690510608788358,
+    "longitude": 121.55299547516631,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485557,
+    "title": "Starbucks Metropoli Drive-Thru",
+    "address": "Starbucks Metropoli Drive-Thru, E. Rodriguez Jr. Avenue",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.602233469371455,
+    "longitude": 121.07974159049513,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485556,
+    "title": "Robinsons Iligan GoCharge Station",
+    "address": "Robinsons Iligan, Macapagal Avenue",
+    "town": "Iligan City",
+    "state": "Lanao del Norte",
+    "latitude": 8.218092119944856,
+    "longitude": 124.24019245564205,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485555,
+    "title": "Mircrotel Tarlac",
+    "address": "Luisita Access Road",
+    "town": "Tarlac City",
+    "state": "Tarlac",
+    "latitude": 15.436479598462057,
+    "longitude": 120.60204516023373,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485554,
+    "title": "Casa Jardin by Zen",
+    "address": "Casa Jardin by Zen, Patul Street",
+    "town": "Santiago City",
+    "state": "Isabela",
+    "latitude": 16.67003982690781,
+    "longitude": 121.52820085426026,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485553,
+    "title": "BPI Cagayan de Oro Main",
+    "address": "BPI Cagayan de Oro Main, Don Apolinar Velez St.",
+    "town": "Cagayan De Oro City",
+    "state": "Misamis Oriental",
+    "latitude": 8.478930191709836,
+    "longitude": 124.64475583175886,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485552,
+    "title": "3K Hotel by Zen",
+    "address": "3K Hotel by Zen, Maharlika Highway",
+    "town": "Santiago",
+    "state": "Isabela",
+    "latitude": 16.689048596042426,
+    "longitude": 121.5519285663272,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485549,
+    "title": "Ayala Malls Marikina - Arvo",
+    "address": "Liwasang Kalayaan St.",
+    "town": "Marikina City",
+    "state": "Metro Manila",
+    "latitude": 14.648990208159574,
+    "longitude": 121.11504778330755,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485503,
+    "title": "V-Green - XentroMall Antipolo",
+    "address": "XentroMall Antipolo, Sumulong Highway",
+    "town": "Antipolo City",
+    "state": "Rizal",
+    "latitude": 14.616899753857467,
+    "longitude": 121.13557716554442,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485502,
+    "title": "V-Green - Vista Mall Malolos",
+    "address": "Vista Mall Malolos, MacArthur Hwy",
+    "town": "Malolos",
+    "state": "Bulacan",
+    "latitude": 14.875340238781916,
+    "longitude": 120.79741635252094,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485501,
+    "title": "V-Green - Vista Mall General Trias",
+    "address": "Vista Mall General Triasm, Arnaldo Highway",
+    "town": "General Trias",
+    "state": "Cavite",
+    "latitude": 14.322574053201407,
+    "longitude": 120.912521988001,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485500,
+    "title": "V-Green - VinFast Marikina",
+    "address": "Mayor Gil Fernando Avenue",
+    "town": "Marikina City",
+    "state": "Metro Manila",
+    "latitude": 14.638092459289084,
+    "longitude": 121.10213641842688,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485499,
+    "title": "Quarker - H2Oto Wash",
+    "address": "Mother Ignacia Avenue",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.633940992702449,
+    "longitude": 121.02561867550548,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 30,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 30,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485443,
+    "title": "V-Green - UniOil Taytay Diversion Rd.",
+    "address": "Taytay Diversion Road",
+    "town": "Taytay",
+    "state": "Rizal",
+    "latitude": 14.563530610938656,
+    "longitude": 121.13866021579963,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 30,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485442,
+    "title": "V-Green - Marina Bay",
+    "address": "Diosdado Macapagal Blvd.",
+    "town": "Parañaque City",
+    "state": "Metro Manila",
+    "latitude": 14.511221278451387,
+    "longitude": 120.99040957651505,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485441,
+    "title": "Total NLEX Apalit",
+    "address": "Total NLEX Apalit, NLEX Northbound",
+    "town": "Apalit",
+    "state": "Pampanga",
+    "latitude": 14.976437485177428,
+    "longitude": 120.75890692879898,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 120,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 120,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485439,
+    "title": "Kia Baguio",
+    "address": "Kia Baguio, Ben Palispis Highway",
+    "town": "Baguio City",
+    "state": "Benguet",
+    "latitude": 16.39031658781508,
+    "longitude": 120.57297517529332,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 120,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 485437,
+    "title": "EcoOil Alabang",
+    "address": "Commerce Avenue",
+    "town": "Muntinlupa City",
+    "state": "Metro Manila",
+    "latitude": 14.421078709179724,
+    "longitude": 121.033658181737,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 40,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 40,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 480353,
+    "title": "Vibo Place Cebu",
+    "address": "Vibo Place Cebu, N. Escario Street",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.317933088129195,
+    "longitude": 123.8961866289302,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 480010,
+    "title": "Solarius EV Charging | Splendido Tagaytay Hotel",
+    "address": "Splendido Tagaytay Hotel, Paseo de Enrile",
+    "town": "Laurel",
+    "state": "Batangas",
+    "latitude": 14.073036670446754,
+    "longitude": 120.86958278579334,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 480009,
+    "title": "Solarius EV Charging | Quest Hotel Tagaytay",
+    "address": "Quest Hotel Tagaytay, Fora Rotunda",
+    "town": "Tagaytay City",
+    "state": "Cavite",
+    "latitude": 14.115918827855765,
+    "longitude": 120.95960278735402,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 480008,
+    "title": "Solarius EV Charging | MIESCOR - Trece Martires",
+    "address": "MIESCOR - Trece Martires, Hugo Perez Road",
+    "town": "Martires City",
+    "state": "Cavite",
+    "latitude": 14.277439439437273,
+    "longitude": 120.8915458379231,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 480007,
+    "title": "Solarius EV Charging | La Balconia",
+    "address": "La Balconia, Seaside Dr.",
+    "town": "Nasugbu",
+    "state": "Batangas",
+    "latitude": 14.122789581402003,
+    "longitude": 120.59828251446561,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 480006,
+    "title": "Solarius EV Charging | Quest Hotel and Conference Center - Cebu",
+    "address": "Quest Hotel and Conference Center - Cebu, Archbishop Reyes Avenue",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.319282594845404,
+    "longitude": 123.90295654464933,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 480005,
+    "title": "Solarius EV Charging | Citadines Cebu City",
+    "address": "Citadines Cebu City, Baseline Road",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.313129126792816,
+    "longitude": 123.89442559992744,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479916,
+    "title": "CB Mall Urdaneta",
+    "address": "CB Mall Urdaneta, MacArthur Highway",
+    "town": "Urdaneta",
+    "state": "Pangasinan",
+    "latitude": 15.97165171879108,
+    "longitude": 120.57110196576389,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 30,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479915,
+    "title": "Robinsons La Union GoCharge Station",
+    "address": "Robinsons La Union, Quezon Avenue",
+    "town": "San Fernando City",
+    "state": "La Union",
+    "latitude": 16.60050425805838,
+    "longitude": 120.3187549888994,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479914,
+    "title": "Robinsons Antique GoCharge Station",
+    "address": "Robinsons Antique, Iloilo-Antique Road",
+    "town": "San Jose de Buenavista",
+    "state": "Antique",
+    "latitude": 10.736123828086335,
+    "longitude": 121.95172302899368,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479913,
+    "title": "DCharge - Vista Mall Dasmariñas",
+    "address": "Vista Mall Dasmariñas, Aguinaldo Highway",
+    "town": "Dasmariñas City",
+    "state": "Cavite",
+    "latitude": 14.317025358553082,
+    "longitude": 120.94406217680512,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 40,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479912,
+    "title": "Summit Point Golf & Country Club",
+    "address": "Summit Point Golf & Country Club, Pebble Beach Road",
+    "town": "Lipa City",
+    "state": "Batangas",
+    "latitude": 14.001072718826137,
+    "longitude": 121.19083031500577,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479911,
+    "title": "Seda Hotel Nuvali",
+    "address": "Seda Hotel Nuvali, Evozone Ave.",
+    "town": "Santa Rosa",
+    "state": "Laguna",
+    "latitude": 14.23869203773745,
+    "longitude": 121.05980808823904,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479910,
+    "title": "Orchard Golf & Country Club",
+    "address": "Orchard Golf & Country Club, Mango Drive",
+    "town": "Dasmariñas",
+    "state": "Cavite",
+    "latitude": 14.352833293634305,
+    "longitude": 120.96071191851138,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479909,
+    "title": "Ayala Malls Solenad 1",
+    "address": "Ayala Malls Solenad 1, Santa Elena Street",
+    "town": "Santa Rosa",
+    "state": "Laguna",
+    "latitude": 14.241502375723542,
+    "longitude": 121.05848694097813,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479890,
+    "title": "Vermosa Estate",
+    "address": "Vermosa Estate, Daang Hari Rd.",
+    "town": "Imus",
+    "state": "Cavite",
+    "latitude": 14.381916613924119,
+    "longitude": 120.95801522313172,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479889,
+    "title": "Landers Vermosa",
+    "address": "Landers Vermosa, Vermosa Blvd.",
+    "town": "Imus",
+    "state": "Cavite",
+    "latitude": 14.38262527488952,
+    "longitude": 120.95960248518008,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479888,
+    "title": "Laguna Technopark",
+    "address": "North Main Avenue",
+    "town": "Biñan",
+    "state": "Laguna",
+    "latitude": 14.26384440392333,
+    "longitude": 121.0591831756742,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479887,
+    "title": "Kia Bacoor",
+    "address": "Kia Bacoor, Bacoor Boulevard",
+    "town": "Bacoor",
+    "state": "Cavite",
+    "latitude": 14.415475023499098,
+    "longitude": 120.96746634943509,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479886,
+    "title": "Kasa Luntian",
+    "address": "Kasa Luntian, Tagaytay-Calamba Rd.",
+    "town": "Tagaytay City",
+    "state": "Cavite",
+    "latitude": 14.124639156430504,
+    "longitude": 120.96894160241277,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479885,
+    "title": "Ayala Malls Evo City Synergy Street Parking",
+    "address": "",
+    "town": "Kawit",
+    "state": "Cavite",
+    "latitude": 14.432214255871884,
+    "longitude": 120.90218730902438,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7.4,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479884,
+    "title": "Ayala Malls Evo City Central Drive Parking",
+    "address": "Antero Soriano Highway",
+    "town": "Kawit",
+    "state": "Cavite",
+    "latitude": 14.433288166241795,
+    "longitude": 120.90126479677247,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7.4,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479880,
+    "title": "Ayala Greenfield Estates (AGE) - Golf & Leisure Club",
+    "address": "Ayala Greenfield Estates (AGE) - Golf & Leisure Club, Puting Lupa Road",
+    "town": "Philippines",
+    "state": "Laguna",
+    "latitude": 14.153213423287553,
+    "longitude": 121.15998280457052,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479879,
+    "title": "BYD Palawan",
+    "address": "BYD Palawan, KM 5 North National Hwy.",
+    "town": "Puerto Princesa City",
+    "state": "Palawan",
+    "latitude": 9.780839373577223,
+    "longitude": 118.74766844609644,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22.1,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479878,
+    "title": "Robinsons Pagadian GoCharge Station",
+    "address": "Robinsons Pagadian, F. S. Pajares Avenue",
+    "town": "Pagadian City",
+    "state": "Zamboanga del Sur",
+    "latitude": 7.826921081965949,
+    "longitude": 123.43782963098101,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479877,
+    "title": "TRYP by Wyndham Mall of Asia",
+    "address": "TRYP by Wyndham Mall of Asia, Seaside Blvd.",
+    "town": "Pasay City",
+    "state": "Metro Manila",
+    "latitude": 14.542093660071785,
+    "longitude": 120.98230092670667,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479847,
+    "title": "DCharge - PSR Holdings Inc.",
+    "address": "Eraño G. Manalo Street",
+    "town": "Marikina City",
+    "state": "Metro Manila",
+    "latitude": 14.641874434066082,
+    "longitude": 121.09944628611697,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 120,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479846,
+    "title": "Microtel by Wyndham UP Techohub",
+    "address": "Commonwealth Avenue",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.659671068452056,
+    "longitude": 121.06004742322511,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479844,
+    "title": "Gigawatt Power Inc.",
+    "address": "Gigawatt Power Inc., Bayani Road",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.526827007991884,
+    "longitude": 121.04236210481963,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479843,
+    "title": "Garden Towers",
+    "address": "Garden Towers, East Street",
+    "town": "Makati City",
+    "state": "Metro Manila",
+    "latitude": 14.549405183407643,
+    "longitude": 121.02494005997073,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479819,
+    "title": "BPI BF Parañaque",
+    "address": "BPI BF Parañaque, Aguirre Avenue",
+    "town": "Parañaque City",
+    "state": "Metro Manila",
+    "latitude": 14.444879274273674,
+    "longitude": 121.02742293372216,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479444,
+    "title": "Ayala Alabang Country Club",
+    "address": "Country Club Drive",
+    "town": "Muntinlupa City",
+    "state": "Metro Manila",
+    "latitude": 14.402842134655685,
+    "longitude": 121.01658484516247,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479443,
+    "title": "Avida Towers Sola",
+    "address": "Avida Towers Sola, Vertis North Service Road",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.64735079605775,
+    "longitude": 121.0360047026702,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479442,
+    "title": "AT Yuchengco Center",
+    "address": "AT Yuchengco Centre, 26th Street",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.548633498859402,
+    "longitude": 121.04745184732019,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479441,
+    "title": "Healthway Cancer Care Hospital",
+    "address": "South Union Drive",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.502664273953755,
+    "longitude": 121.04819531558542,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479440,
+    "title": "Arca South Estate Parking",
+    "address": "East Union Drive",
+    "town": "Taguig",
+    "state": "Metro Manila",
+    "latitude": 14.505853717239546,
+    "longitude": 121.04723880005372,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 120,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479040,
+    "title": "Seda Hotel Capitol Central",
+    "address": "North Capitol Rd.",
+    "town": "Bacolod",
+    "state": "Negros Occidental",
+    "latitude": 10.676821409307479,
+    "longitude": 122.95306151027637,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479039,
+    "title": "Robinsons Roxas GoCharge Station",
+    "address": "Robinsons Roxas, Immaculate Heart of Mary Ave.",
+    "town": "Roxas City",
+    "state": "Capiz",
+    "latitude": 11.569115958988263,
+    "longitude": 122.75141653442256,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479038,
+    "title": "Robinsons Dumaguete e-charge Station",
+    "address": "Robinsons Dumaguete, Negros South Rd.",
+    "town": "Dumaguete City",
+    "state": "Negros Oriental",
+    "latitude": 9.298786150798236,
+    "longitude": 123.30302706557995,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479036,
+    "title": "Landers Naga",
+    "address": "Landers Naga, Sen. Raul S. Roco Street",
+    "town": "Naga",
+    "state": "Camarines Sur",
+    "latitude": 13.61733944608774,
+    "longitude": 123.19097034226525,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479035,
+    "title": "Seda Hotel Atria",
+    "address": "Seda Hotel Atria, Donato Pison Ave.",
+    "town": "Iloilo City",
+    "state": "Iloilo",
+    "latitude": 10.707661395860839,
+    "longitude": 122.54891491153523,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479034,
+    "title": "Robinsons Iloilo GoCharge Station",
+    "address": "Robinsons Iloilo, Quezon St",
+    "town": "Iloilo City",
+    "state": "Iloilo",
+    "latitude": 10.694037191509395,
+    "longitude": 122.56591914159048,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 479033,
+    "title": "Richmonde Hotel Iloilo",
+    "address": "Richmonde Hotel Iloilo, Megaworld Boulevard",
+    "town": "Iloilo City",
+    "state": "Iloilo",
+    "latitude": 10.715471613826864,
+    "longitude": 122.54500561366604,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478937,
+    "title": "Giant Station Lucena",
+    "address": "Giant Station Lucena, Quezon Eco-Tourism Road",
+    "town": "Sariaya",
+    "state": "Quezon",
+    "latitude": 13.95251681747186,
+    "longitude": 121.57842558295715,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478818,
+    "title": "Ayala Center Cebu",
+    "address": "Ayala Center Cebu, Cardinal Rosales Avenue",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.317271273890626,
+    "longitude": 123.90562394868152,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478817,
+    "title": "Ayala Central Bloc Cebu",
+    "address": "Ayala Central Bloc Cebu, V. Padriga Street",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.330694294201749,
+    "longitude": 123.9072221686414,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478816,
+    "title": "BYD Cebu Central",
+    "address": "BYD Cebu Central, J. De Veyra Street",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.307475626333115,
+    "longitude": 123.91331254465831,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478815,
+    "title": "BYD IL Corso",
+    "address": "BYD IL Corso, Cebu South Coastal Road",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.264925102203705,
+    "longitude": 123.87634767482359,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478814,
+    "title": "Club Filipino Golf - Danao",
+    "address": "Club Filipino Golf - Danao, Danao City Rotunda",
+    "town": "Danao City",
+    "state": "Cebu",
+    "latitude": 10.507930388288699,
+    "longitude": 124.01213542358721,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478813,
+    "title": "GMall of Cebu",
+    "address": "GMall of Cebu, A. Soriano Jr. Avenue",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.308417935907897,
+    "longitude": 123.91224438050983,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478812,
+    "title": "Landers Superstore Cebu",
+    "address": "Landers Superstore Cebu, Cardinal Rosales Avenue",
+    "town": "Cebu City",
+    "state": "Cebu",
+    "latitude": 10.321040704933708,
+    "longitude": 123.90982623773141,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478811,
+    "title": "Prince Express Santa Fe Bantayan",
+    "address": "Prince Express Santa Fe Bantayan, C. Batiancila Street",
+    "town": "Santa Fe",
+    "state": "Cebu",
+    "latitude": 11.154932630788423,
+    "longitude": 123.80499308209164,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478810,
+    "title": "Prince Express Dumanjug",
+    "address": "Prince Warehouse Dumanjug, Tangil Port",
+    "town": "Dumanjug",
+    "state": "Cebu",
+    "latitude": 10.06993501463586,
+    "longitude": 123.44710514056248,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478809,
+    "title": "Prince Town Camotes",
+    "address": "Prince Town Camotes, Provincial Road",
+    "town": "San Francisco",
+    "state": "Cebu",
+    "latitude": 10.645192247593101,
+    "longitude": 124.37447997682864,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478808,
+    "title": "Ayala Malls Centrio",
+    "address": "Ayala Malls Centrio, Corrales Ave.",
+    "town": "Cagayan de Oro",
+    "state": "Misamis Oriental",
+    "latitude": 8.485454941236483,
+    "longitude": 124.65103889983811,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478529,
+    "title": "Abreeza Residences by Alveo Land",
+    "address": "J. P. Laurel Avenue",
+    "town": "Davao",
+    "state": "Davao del Sur",
+    "latitude": 7.089677507630185,
+    "longitude": 125.61119085186328,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478527,
+    "title": "The Residences at Azuela Cove",
+    "address": "The Residences at Azuela Cove, South Bay Road",
+    "town": "Davao",
+    "state": "Davao del Sur",
+    "latitude": 7.097721763922607,
+    "longitude": 125.64888209905462,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478525,
+    "title": "Ayala Malls Abreeza",
+    "address": "Ayala Malls Abreeza, J.P. Laurel Ave",
+    "town": "Davao City",
+    "state": "Davao del Sur",
+    "latitude": 7.090910830103539,
+    "longitude": 125.61168130496003,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478524,
+    "title": "Gaisano Mall of Davao",
+    "address": "Gaisano Mall of Davao, J.P. Laurel Ave",
+    "town": "Davao City",
+    "state": "Davao del Sur",
+    "latitude": 7.0776126076845856,
+    "longitude": 125.6141125464394,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478523,
+    "title": "Gaisano Mall of Digos",
+    "address": "Gaisano Mall of Digos, Quezon Avenue",
+    "town": "Digos",
+    "state": "Davao del Sur",
+    "latitude": 6.7597792650169595,
+    "longitude": 125.34673938587162,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478522,
+    "title": "Gaisano Mall of Tagum",
+    "address": "Gaisano Mall of Tagum, Davao-Agusan National Highway",
+    "town": "Tagum",
+    "state": "Davao del Norte",
+    "latitude": 7.448684580115213,
+    "longitude": 125.81168949370272,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478521,
+    "title": "Landers Davao",
+    "address": "F. Torres Street",
+    "town": "Davao City",
+    "state": "Davao del Sur",
+    "latitude": 7.080826477405012,
+    "longitude": 125.61059255521309,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478518,
+    "title": "EVOxCharge - Acuatico Beach Resort",
+    "address": "Acuatico Beach Resort, Malabrigo-Laiya Road",
+    "town": "San Juan",
+    "state": "Batangas",
+    "latitude": 13.664800876647007,
+    "longitude": 121.37607380915108,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478517,
+    "title": "Vista Mall Bataan",
+    "address": "Vista Mall Bataan, Roman Superhighway",
+    "town": "Balanga",
+    "state": "Bataan",
+    "latitude": 14.654765632472689,
+    "longitude": 120.53414401608893,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 40,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478514,
+    "title": "WeCharge Hyperfast - Uniqlo The Infinity",
+    "address": "Uniqlo The Infinity, Aniceto Gueco St.",
+    "town": "Angeles",
+    "state": "Pampanga",
+    "latitude": 15.164313310655558,
+    "longitude": 120.60549711126839,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478513,
+    "title": "Solarius EV Charging | The Roof Bed & Breakfast",
+    "address": "The Roof Bed & Breakfast, J. P. Rizal Street",
+    "town": "Iba",
+    "state": "Zambales",
+    "latitude": 15.321603459422136,
+    "longitude": 119.98549668698763,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 478280,
+    "title": "Galaxy Charge - The BAD Studio",
+    "address": "The BAD Studio, Governor F. Halili Avenue",
+    "town": "Bocaue",
+    "state": "Bulacan",
+    "latitude": 14.807815647372195,
+    "longitude": 120.94207563685859,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 477283,
+    "title": "Solarius EV Charging | Scubaholics",
+    "address": "Scubaholics, Zambales Highway",
+    "town": "Olongapo City",
+    "state": "Zambales",
+    "latitude": 14.85073968487147,
+    "longitude": 120.26275419331614,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 477213,
+    "title": "Solarius EV Charging | St. Pio's Medical Center",
+    "address": "St. Pio's Medical Center, Govic Highway",
+    "town": "Iba",
+    "state": "Zambales",
+    "latitude": 15.32613015718421,
+    "longitude": 119.98830569112738,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 477212,
+    "title": "Galaxy Charge - RHC Builders Warehouse",
+    "address": "RHC Builders Warehouse, MacArthur Highway",
+    "town": "Bocaue",
+    "state": "Bulacan",
+    "latitude": 14.775620349602008,
+    "longitude": 120.93883377513453,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475940,
+    "title": "Galaxy Charge - One Martinez Place",
+    "address": "One Martinez Place, Caypombo-Mag-asawang Sapa Rd",
+    "town": "Pandi",
+    "state": "Bulacan",
+    "latitude": 14.858918453876854,
+    "longitude": 120.97500049288215,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475939,
+    "title": "Galaxy Charge - North Victoria Sports & Leisure Inn",
+    "address": "North Victoria Sports & Leisure Inn, Tarlac - Victoria Rd",
+    "town": "Victoria",
+    "state": "Tarlac",
+    "latitude": 15.558754531997138,
+    "longitude": 120.64852744797963,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475938,
+    "title": "Solarius EV Charging | Hidaway Resort",
+    "address": "Hidaway Resort, Pundaquit Rd,",
+    "town": "San Antonio",
+    "state": "Zambales",
+    "latitude": 14.928618672274695,
+    "longitude": 120.06685526690887,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475897,
+    "title": "Cawayan Cafe - Galaxy Charge",
+    "address": "Cawayan Cafe, Nueva Ecija-Pangasinan Road",
+    "town": "Guimba",
+    "state": "Nueva Ecija",
+    "latitude": 15.654332020180917,
+    "longitude": 120.77802450927788,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475896,
+    "title": "Galaxy Charge - Car Camp Auto Care Center",
+    "address": "Car Camp Auto Care Center, Santa Maria Bypass Rd.",
+    "town": "Santa Maria",
+    "state": "Bulacan",
+    "latitude": 14.828923202256732,
+    "longitude": 120.9605956744465,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475895,
+    "title": "Solarius EV Charging | BYD Pampanga",
+    "address": "BYD Pampanga, Jose Abad Santos Ave.",
+    "town": "San Fernando",
+    "state": "Pampanga",
+    "latitude": 15.026268936556917,
+    "longitude": 120.6724405989363,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475894,
+    "title": "Solarius EV Charging | Amco Beach Resort",
+    "address": "Amco Beach Resort, Buton St.",
+    "town": "Baler",
+    "state": "Aurora",
+    "latitude": 15.765717965342418,
+    "longitude": 121.56387787963581,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475885,
+    "title": "Tesla Supercharger - Opus Mall",
+    "address": "Opus Mall, E. Rodriguez Jr. Avenue",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.592740545362943,
+    "longitude": 121.0805475508962,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 250,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475883,
+    "title": "Solarius EV Charging | Solarius HQ",
+    "address": "Solarius HQ, Maharlika Hwy.",
+    "town": "Bambang",
+    "state": "Nueva Vizcaya",
+    "latitude": 16.369727169950863,
+    "longitude": 121.10206757319895,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475882,
+    "title": "Solarius EV Charging | Shop N' Go",
+    "address": "Shop N' Go, Maharlika Highway",
+    "town": "Gamu",
+    "state": "Isabela",
+    "latitude": 17.053730389480066,
+    "longitude": 121.8562048815545,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475881,
+    "title": "Solarius EV Charging | Ilagan City Hotel",
+    "address": "Ilagan City Hotel, Maharlika Highway",
+    "town": "Ilagan City",
+    "state": "Isabela",
+    "latitude": 17.100084902824065,
+    "longitude": 121.8559011678301,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475880,
+    "title": "Solarius EV Charging | Cauayan Medical Specialist Hospital",
+    "address": "Cauayan Medical Specialist Hospital, Burgos Street",
+    "town": "Cauayan City",
+    "state": "Isabela",
+    "latitude": 16.936117589788353,
+    "longitude": 121.77032283774156,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475879,
+    "title": "Solarius EV Charging | Casa Maria's BnB & Garden Cafe",
+    "address": "Casa Maria's BnB & Garden Cafe, LGU Grounds",
+    "town": "Echague",
+    "state": "Isabela",
+    "latitude": 16.71617857893034,
+    "longitude": 121.68542632562139,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475878,
+    "title": "Solarius EV Charging | 24/7 Inn",
+    "address": "24/7 Inn, Maharlika Highway",
+    "town": "Bayombong",
+    "state": "Nueva Vizcaya",
+    "latitude": 16.50853015795566,
+    "longitude": 121.17560618209859,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475877,
+    "title": "Solarius EV Charging | PANELCO III",
+    "address": "PANELCO III, MacArthur Highway",
+    "town": "Urdaneta",
+    "state": "Pangasinan",
+    "latitude": 15.969984421824975,
+    "longitude": 120.57118916348747,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475876,
+    "title": "Solarius EV Charging | NORLU CEDEC Midpoint Hotel",
+    "address": "NORLU CEDEC Midpoint Hotel, MacArthur Hwy.",
+    "town": "Rosario",
+    "state": "La Union",
+    "latitude": 16.221400338616647,
+    "longitude": 120.50384563840225,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475847,
+    "title": "Robinsons Ilocos e-charge Station",
+    "address": "Robinsons Ilocos",
+    "town": "San Nicolas",
+    "state": "Ilocos Norte",
+    "latitude": 18.179679554560153,
+    "longitude": 120.59264234451348,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475822,
+    "title": "EVOxCharge - Pacific Plaza Towers",
+    "address": "Pacific Plaza Towers, 4th Street",
+    "town": "Taguig City",
+    "state": "Metro Manila",
+    "latitude": 14.54725916913614,
+    "longitude": 121.04502429002491,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 40,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 40,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475818,
+    "title": "Department of Energy - Clark Development Corporation",
+    "address": "Department of Energy - Clark Development Corporation, East Jacinto Street",
+    "town": "Clark",
+    "state": "Pampanga",
+    "latitude": 15.183113987082365,
+    "longitude": 120.52672112027096,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 80,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 80,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475815,
+    "title": "ParknCharge - Department Of Energy Luzon Office",
+    "address": "Department Of Energy Luzon Office, Pangasinan-Nueva Vizcaya Road",
+    "town": "Rosales",
+    "state": "Pangasinan",
+    "latitude": 15.909187898051627,
+    "longitude": 120.64054772922998,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 80,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 80,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475782,
+    "title": "Prince Superstore Sogod",
+    "address": "Prince Superstore Sogod, Cebu North Road",
+    "town": "Sogod",
+    "state": "Cebu",
+    "latitude": 10.767338715994967,
+    "longitude": 124.00567814440149,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475781,
+    "title": "Prince Express Inn Bogo",
+    "address": "Prince Express Inn Bogo, Dela Viña St",
+    "town": "Bogo City",
+    "state": "Cebu",
+    "latitude": 11.054022380786137,
+    "longitude": 124.0123914506812,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475715,
+    "title": "BYD Dipolog",
+    "address": "BYD Dipolog, National Hwy",
+    "town": "Dipolog City",
+    "state": "Zamboanga del Norte",
+    "latitude": 8.562323031049644,
+    "longitude": 123.33759544759755,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475710,
+    "title": "BYD Cebu North",
+    "address": "BYD Cebu, ETO Bldg. A",
+    "town": "Mandaue City",
+    "state": "Cebu",
+    "latitude": 10.340005497647283,
+    "longitude": 123.9234703051676,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475704,
+    "title": "Ayala Malls Capitol Central",
+    "address": "Ayala Malls Capitol Central, South Capitol Road",
+    "town": "Bacolod City",
+    "state": "Negros Occidental",
+    "latitude": 10.67647894505481,
+    "longitude": 122.94921919242802,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 120,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475700,
+    "title": "Valenzuela City Hall",
+    "address": "Valenzuela City Hall, A. Pablo Street",
+    "town": "Valenzuela City",
+    "state": "Metro Manila",
+    "latitude": 14.691766288440434,
+    "longitude": 120.9692987800247,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475695,
+    "title": "SR5 Bldg.",
+    "address": "SR5 Bldg, 20th Ave.",
+    "town": "Quezon City",
+    "state": "Metro Manila",
+    "latitude": 14.61751023276743,
+    "longitude": 121.06442565043415,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": false,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 30,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475600,
+    "title": "Nuvali Big Box",
+    "address": "Nuvali Big Box, Nature Ave",
+    "town": "Santa Rosa City",
+    "state": "Laguna",
+    "latitude": 14.233130316632199,
+    "longitude": 121.0536737853389,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475598,
+    "title": "Solarius EV Charging | Mercedes-Benz EDSA Greenhills",
+    "address": "Mercedes-Benz EDSA",
+    "town": "San Juan City",
+    "state": "Metro Manila",
+    "latitude": 14.603485681439636,
+    "longitude": 121.05806667246179,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475549,
+    "title": "BYD Santa Rosa",
+    "address": "BYD Santa Rosa, Santa Rosa-Tagaytay Road",
+    "town": "Santa Rosa",
+    "state": "Laguna",
+    "latitude": 14.244704185235577,
+    "longitude": 121.05990463947114,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475548,
+    "title": "BYD Manila Bay",
+    "address": "BYD Manila Bay, Bradco Avenue",
+    "town": "Parañaque City",
+    "state": "Metro Manila",
+    "latitude": 14.528660396182346,
+    "longitude": 120.98878610429449,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 7.4,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": null,
+        "level": ""
+      }
+    ]
+  },
+  {
+    "id": 475547,
+    "title": "BYD Baliwag",
+    "address": "19 Doña Remedios Trinidad Hwy",
+    "town": "Baliwag",
+    "state": "Bulacan",
+    "latitude": 14.954738894789926,
+    "longitude": 120.88596392169484,
+    "operator": "Independent / Unknown",
+    "usage_type": "Public Access",
+    "is_dc_fast": true,
+    "connections": [
+      {
+        "title": "Unknown Plug",
+        "power_kw": 60,
+        "level": ""
+      },
+      {
+        "title": "Unknown Plug",
+        "power_kw": 22,
+        "level": ""
+      }
+    ]
+  }
+]
