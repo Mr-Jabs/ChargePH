@@ -11,6 +11,16 @@ npm run dev
 
 Open http://localhost:3000. Production: `npm run build` then `npm start`. Checks: `npm run lint` and `npm run typecheck`.
 
+## Neon controls and spatial search
+
+- Choose Emerald Matrix (default, `#10B981`), Cyberpunk Pink (`#FF007F`), or Electric Cyan (`#00F0FF`) in the header. Marker SVGs, connector highlights, focus states, and glow borders share the selected palette. Theme selection lasts for the current page session.
+- The analytics sidebar stays open on desktop. Mobile uses the analytics drawer with a close control so the map stays accessible. Map resizing preserves its geographic center; reduced-motion preferences disable animated map flights.
+- Search by name, address, city, or province. Results filter immediately, and the viewport fits matching stations after a short typing pause. `BGC` matches explicit Bonifacio Global City/Fort Bonifacio addresses plus Taguig stations within 1.5 km of the supplied Menarco Tower coordinate. This is an approximate neighborhood search, not an official boundary; it excludes other Taguig areas such as Arca South. Menarco Tower's BGC location is documented by [BCG's Manila office](https://www.bcg.com/ja-jp/offices/manila).
+- “Find nearest charger” requests location only when clicked. It adds a “You are here” marker, an accuracy circle, a highlighted nearest **matching** station, and a dashed straight-line connection. The result card shows distance in meters or kilometers and GPS accuracy. Search and plug/operator/DC filters constrain the candidates; clearing location removes its map overlays. Permission denial, timeout, unavailable GPS, and empty matches have explicit states. Distances are great-circle distances, not driving distance or travel time.
+- CCS Type 2, Type 2 (AC), and GB/T quick badges share state with the sidebar's connector filters. Their counts show documented connectors in the full snapshot. Connector types remain unknown in the supplied data, so all three currently show zero; charger power is not used to guess plug compatibility.
+
+`npm test` runs seven spatial-search and GPS tests, including nearest-candidate selection, distance calculation, BGC matching, successful location handling, denial, timeout, and unsupported browsers. The test command uses Node.js TypeScript stripping (Node 22.6+).
+
 ## Data and interaction
 
 The dashboard imports `data/ph_stations.json` through `@/data/ph_stations.json`. The original ingestion script and data are preserved. Search by station, address, town, or province; combine operator, connector, and DC filters; select station list entries or map markers for details and Google Maps directions. Export downloads the filtered records as JSON. Location requires browser permission and a secure context (localhost is supported).
